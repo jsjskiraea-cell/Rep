@@ -1,0 +1,8 @@
+sending incremental file list
+Celeste.Editor/
+Celeste.Editor/LevelTemplate.cs
+Celeste.Editor/LevelTemplateType.cs
+Celeste.Editor/MapEditor.cs
+
+sent 24,888 bytes  received 77 bytes  49,930.00 bytes/sec
+total size is 24,611  speedup is 0.99

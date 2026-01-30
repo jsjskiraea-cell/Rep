@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <NoWarn>SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Include all C# sources from the copied decompiled folders -->
+    <Compile Include="Celeste\**\*.cs" />
+    <Compile Include="Celeste.Editor\**\*.cs" />
+    <Compile Include="Celeste.Pico8\**\*.cs" />
+    <Compile Include="Monocle\**\*.cs" />
+    <Compile Include="SimplexNoise\**\*.cs" />
+    <Compile Include="FMOD\**\*.cs" />
+    <Compile Include="FMOD.Studio\**\*.cs" />
+    <Compile Include="Properties\**\*.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Suppress tests/build outputs from original project if any -->
+    <None Remove="app.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
+  </ItemGroup>
+
+</Project>

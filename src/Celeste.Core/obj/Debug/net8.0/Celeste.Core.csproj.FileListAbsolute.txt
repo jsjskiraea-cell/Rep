@@ -1,0 +1,11 @@
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.csproj.AssemblyReference.cache
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.csproj.CoreCompileInputs.cache
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.sourcelink.json
+/workspaces/Rep/src/Celeste.Core/bin/Debug/net8.0/Celeste.Core.deps.json
+/workspaces/Rep/src/Celeste.Core/bin/Debug/net8.0/Celeste.Core.dll
+/workspaces/Rep/src/Celeste.Core/bin/Debug/net8.0/Celeste.Core.pdb
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.dll
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/refint/Celeste.Core.dll
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/Celeste.Core.pdb
+/workspaces/Rep/src/Celeste.Core/obj/Debug/net8.0/ref/Celeste.Core.dll

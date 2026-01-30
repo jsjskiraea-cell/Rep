@@ -1,0 +1,16 @@
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.csproj.AssemblyReference.cache
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.AssemblyInfoInputs.cache
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.AssemblyInfo.cs
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.csproj.CoreCompileInputs.cache
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.sourcelink.json
+/workspaces/Rep/src/Celeste.Android/bin/Release/net8.0/Celeste.Android.deps.json
+/workspaces/Rep/src/Celeste.Android/bin/Release/net8.0/Celeste.Android.dll
+/workspaces/Rep/src/Celeste.Android/bin/Release/net8.0/Celeste.Android.pdb
+/workspaces/Rep/src/Celeste.Android/bin/Release/net8.0/Celeste.Core.dll
+/workspaces/Rep/src/Celeste.Android/bin/Release/net8.0/Celeste.Core.pdb
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste..A68035B7.Up2Date
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.dll
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/refint/Celeste.Android.dll
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/Celeste.Android.pdb
+/workspaces/Rep/src/Celeste.Android/obj/Release/net8.0/ref/Celeste.Android.dll

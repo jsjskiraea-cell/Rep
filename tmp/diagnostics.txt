@@ -1,0 +1,1103 @@
+PWD:
+/workspaces/Rep
+
+LS:
+total 264
+drwxrwxrwx+  7 codespace root        4096 Jan 30 11:24 .
+drwxr-xrwx+  5 codespace root        4096 Jan 30 10:47 ..
+drwxrwxrwx+  8 codespace root        4096 Jan 30 10:47 .git
+drwxrwxrwx+  3 codespace codespace   4096 Jan 30 11:20 .github
+-rw-rw-rw-   1 codespace root       23896 Jan 30 10:47 Apps.sh
+drwxrwxrwx+ 10 codespace codespace   4096 Jan 30 10:50 Celeste_Decompilado
+-rw-rw-rw-   1 codespace root        5932 Jan 30 10:47 Extençoes.sh
+-rw-rw-rw-   1 codespace root       31527 Jan 30 10:47 INSTRUÇÕES.txt
+drwxrwxrwx+  3 codespace codespace   4096 Jan 30 11:15 fmodstudioapi20312android
+-rw-rw-rw-   1 codespace root        6929 Jan 30 10:47 install_manual.sh
+-rw-rw-rw-   1 codespace codespace 164656 Jan 30 11:15 saida.txt
+drwxrwxrwx+  2 codespace codespace   4096 Jan 30 11:24 tmp
+
+DU (top-level):
+8.0K	Extençoes.sh
+8.0K	install_manual.sh
+8.0K	tmp
+24K	Apps.sh
+32K	INSTRUÇÕES.txt
+164K	saida.txt
+7.3M	Celeste_Decompilado
+111M	fmodstudioapi20312android
+
+TREE (depth 3 dirs):
+.
+./.git
+./.git/hooks
+./.git/info
+./.git/lfs
+./.git/lfs/tmp
+./.git/logs
+./.git/logs/refs
+./.git/objects
+./.git/objects/info
+./.git/objects/pack
+./.git/refs
+./.git/refs/heads
+./.git/refs/remotes
+./.git/refs/tags
+./.github
+./.github/appmod
+./.github/appmod/appcat
+./Celeste_Decompilado
+./Celeste_Decompilado/Celeste
+./Celeste_Decompilado/Celeste.Editor
+./Celeste_Decompilado/Celeste.Pico8
+./Celeste_Decompilado/FMOD
+./Celeste_Decompilado/FMOD.Studio
+./Celeste_Decompilado/Monocle
+./Celeste_Decompilado/Properties
+./Celeste_Decompilado/SimplexNoise
+./fmodstudioapi20312android
+./fmodstudioapi20312android/fmodstudioapi20312android
+./fmodstudioapi20312android/fmodstudioapi20312android/api
+./fmodstudioapi20312android/fmodstudioapi20312android/bin
+./fmodstudioapi20312android/fmodstudioapi20312android/doc
+./fmodstudioapi20312android/fmodstudioapi20312android/plugins
+./tmp
+
+FILES CSHARP and projects (first 500 lines):
+./Celeste_Decompilado/Properties/AssemblyInfo.cs
+./Celeste_Decompilado/Celeste.Editor/MapEditor.cs
+./Celeste_Decompilado/Celeste.Editor/LevelTemplateType.cs
+./Celeste_Decompilado/Celeste.Editor/LevelTemplate.cs
+./Celeste_Decompilado/Celeste.csproj
+./Celeste_Decompilado/Monocle/NumberText.cs
+./Celeste_Decompilado/Monocle/ComponentList.cs
+./Celeste_Decompilado/Monocle/Sprite.cs
+./Celeste_Decompilado/Monocle/TagExcludeRenderer.cs
+./Celeste_Decompilado/Monocle/VirtualInput.cs
+./Celeste_Decompilado/Monocle/Hitbox.cs
+./Celeste_Decompilado/Monocle/BitTag.cs
+./Celeste_Decompilado/Monocle/VirtualRenderTarget.cs
+./Celeste_Decompilado/Monocle/Spritesheet.cs
+./Celeste_Decompilado/Monocle/Collide.cs
+./Celeste_Decompilado/Monocle/SingleTagRenderer.cs
+./Celeste_Decompilado/Monocle/VirtualButton.cs
+./Celeste_Decompilado/Monocle/Cache.cs
+./Celeste_Decompilado/Monocle/PixelFontCharacter.cs
+./Celeste_Decompilado/Monocle/Ease.cs
+./Celeste_Decompilado/Monocle/Tracked.cs
+./Celeste_Decompilado/Monocle/GraphicsComponent.cs
+./Celeste_Decompilado/Monocle/MInput.cs
+./Celeste_Decompilado/Monocle/TagLists.cs
+./Celeste_Decompilado/Monocle/ParticleType.cs
+./Celeste_Decompilado/Monocle/Command.cs
+./Celeste_Decompilado/Monocle/PointSectors.cs
+./Celeste_Decompilado/Monocle/Scene.cs
+./Celeste_Decompilado/Monocle/ErrorLog.cs
+./Celeste_Decompilado/Monocle/Chooser.cs
+./Celeste_Decompilado/Monocle/Camera.cs
+./Celeste_Decompilado/Monocle/Calc.cs
+./Celeste_Decompilado/Monocle/Wiggler.cs
+./Celeste_Decompilado/Monocle/Image.cs
+./Celeste_Decompilado/Monocle/QuaternionExt.cs
+./Celeste_Decompilado/Monocle/ShakerList.cs
+./Celeste_Decompilado/Monocle/ChoiceSet.cs
+./Celeste_Decompilado/Monocle/Entity.cs
+./Celeste_Decompilado/Monocle/SpriteData.cs
+./Celeste_Decompilado/Monocle/MTexture.cs
+./Celeste_Decompilado/Monocle/CheatListener.cs
+./Celeste_Decompilado/Monocle/Draw.cs
+./Celeste_Decompilado/Monocle/Coroutine.cs
+./Celeste_Decompilado/Monocle/Binding.cs
+./Celeste_Decompilado/Monocle/Tracker.cs
+./Celeste_Decompilado/Monocle/ParticleSystem.cs
+./Celeste_Decompilado/Monocle/CounterSet.cs
+./Celeste_Decompilado/Monocle/Commands.cs
+./Celeste_Decompilado/Monocle/Pooler.cs
+./Celeste_Decompilado/Monocle/CoroutineHolder.cs
+./Celeste_Decompilado/Monocle/Engine.cs
+./Celeste_Decompilado/Monocle/Text.cs
+./Celeste_Decompilado/Monocle/ColliderList.cs
+./Celeste_Decompilado/Monocle/PixelFont.cs
+./Celeste_Decompilado/Monocle/SpriteBank.cs
+./Celeste_Decompilado/Monocle/Tileset.cs
+./Celeste_Decompilado/Monocle/TimerText.cs
+./Celeste_Decompilado/Monocle/VirtualMap.cs
+./Celeste_Decompilado/Monocle/SineWave.cs
+./Celeste_Decompilado/Monocle/Pooled.cs
+./Celeste_Decompilado/Monocle/Atlas.cs
+./Celeste_Decompilado/Monocle/SpecEntity.cs
+./Celeste_Decompilado/Monocle/VirtualIntegerAxis.cs
+./Celeste_Decompilado/Monocle/SaveLoad.cs
+./Celeste_Decompilado/Monocle/Shaker.cs
+./Celeste_Decompilado/Monocle/PixelFontSize.cs
+./Celeste_Decompilado/Monocle/Renderer.cs
+./Celeste_Decompilado/Monocle/Alarm.cs
+./Celeste_Decompilado/Monocle/RendererList.cs
+./Celeste_Decompilado/Monocle/TileGrid.cs
+./Celeste_Decompilado/Monocle/AutotileData.cs
+./Celeste_Decompilado/Monocle/VirtualJoystick.cs
+./Celeste_Decompilado/Monocle/OutlineText.cs
+./Celeste_Decompilado/Monocle/VirtualAsset.cs
+./Celeste_Decompilado/Monocle/Collider.cs
+./Celeste_Decompilado/Monocle/SpriteDataSource.cs
+./Celeste_Decompilado/Monocle/ParticleEmitter.cs
+./Celeste_Decompilado/Monocle/VirtualContent.cs
+./Celeste_Decompilado/Monocle/EntityList.cs
+./Celeste_Decompilado/Monocle/Component.cs
+./Celeste_Decompilado/Monocle/Grid.cs
+./Celeste_Decompilado/Monocle/VirtualTexture.cs
+./Celeste_Decompilado/Monocle/StateMachine.cs
+./Celeste_Decompilado/Monocle/Circle.cs
+./Celeste_Decompilado/Monocle/PixelText.cs
+./Celeste_Decompilado/Monocle/VirtualInputNode.cs
+./Celeste_Decompilado/Monocle/MethodHandle.cs
+./Celeste_Decompilado/Monocle/Tiler.cs
+./Celeste_Decompilado/Monocle/Pnt.cs
+./Celeste_Decompilado/Monocle/Tween.cs
+./Celeste_Decompilado/Monocle/Particle.cs
+./Celeste_Decompilado/Monocle/EverythingRenderer.cs
+./Celeste_Decompilado/Monocle/SimpleCurve.cs
+./Celeste_Decompilado/FMOD/DSP_STATE.cs
+./Celeste_Decompilado/FMOD/MEMORY_FREE_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_GETSAMPLERATE_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_FFT.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_MODE_TYPE.cs
+./Celeste_Decompilado/FMOD/SPEAKER.cs
+./Celeste_Decompilado/FMOD/ChannelGroup.cs
+./Celeste_Decompilado/FMOD/DSPCONNECTION_TYPE.cs
+./Celeste_Decompilado/FMOD/DSPConnection.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_FLOAT_MAPPING_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_GETLISTENERATTRIBUTES_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_3DATTRIBUTES_MULTI.cs
+./Celeste_Decompilado/FMOD/VERSION.cs
+./Celeste_Decompilado/FMOD/DSP_OBJECTPAN.cs
+./Celeste_Decompilado/FMOD/DSP_MULTIBAND_EQ.cs
+./Celeste_Decompilado/FMOD/DSP_RELEASECALLBACK.cs
+./Celeste_Decompilado/FMOD/SOUND_PCMREADCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_GETSPEAKERMODE_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_TRANSCEIVER.cs
+./Celeste_Decompilado/FMOD/DSP_TRANSCEIVER_SPEAKERMODE.cs
+./Celeste_Decompilado/FMOD/DSP_CHANNELMIX_OUTPUT.cs
+./Celeste_Decompilado/FMOD/PLUGINLIST.cs
+./Celeste_Decompilado/FMOD/REVERB_PROPERTIES.cs
+./Celeste_Decompilado/FMOD/FILE_ASYNCREADCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_SYSTEM_MIX_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_3D_ROLLOFF_TYPE.cs
+./Celeste_Decompilado/FMOD/DRIVER_STATE.cs
+./Celeste_Decompilado/FMOD/FILE_OPENCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_SETPARAM_FLOAT_CALLBACK.cs
+./Celeste_Decompilado/FMOD/_3D_ATTRIBUTES.cs
+./Celeste_Decompilado/FMOD/DSP_HIGHPASS_SIMPLE.cs
+./Celeste_Decompilado/FMOD/DSP_GETBLOCKSIZE_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_SEND.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SUMMONOMATRIX_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC.cs
+./Celeste_Decompilado/FMOD/TAGTYPE.cs
+./Celeste_Decompilado/FMOD/FILE_READCALLBACK.cs
+./Celeste_Decompilado/FMOD/SYSTEM_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_RESAMPLER.cs
+./Celeste_Decompilado/FMOD/DSP_SYSTEM_DEREGISTER_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_ECHO.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMEQ.cs
+./Celeste_Decompilado/FMOD/SoundGroup.cs
+./Celeste_Decompilado/FMOD/DSP_SHOULDIPROCESS_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_DATA.cs
+./Celeste_Decompilado/FMOD/DSP_SETPARAM_DATA_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_DFT_IFFTREAL_FUNC.cs
+./Celeste_Decompilado/FMOD/FILE_CLOSECALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_ITLOWPASS.cs
+./Celeste_Decompilado/FMOD/SPEAKERMODE.cs
+./Celeste_Decompilado/FMOD/DSP_READCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_FLOAT_MAPPING.cs
+./Celeste_Decompilado/FMOD/VECTOR.cs
+./Celeste_Decompilado/FMOD/DSP_GETPARAM_FLOAT_CALLBACK.cs
+./Celeste_Decompilado/FMOD/Reverb3D.cs
+./Celeste_Decompilado/FMOD/DSP_RESETCALLBACK.cs
+./Celeste_Decompilado/FMOD/ASYNCREADINFO.cs
+./Celeste_Decompilado/FMOD/Channel.cs
+./Celeste_Decompilado/FMOD/MEMORY_REALLOC_CALLBACK.cs
+./Celeste_Decompilado/FMOD/CHANNELORDER.cs
+./Celeste_Decompilado/FMOD/OUTPUTTYPE.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SUMMONOTOSURROUNDMATRIX_FUNC.cs
+./Celeste_Decompilado/FMOD/ASYNCREADINFO_DONE_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_UNION.cs
+./Celeste_Decompilado/FMOD/DSP_PROCESS_OPERATION.cs
+./Celeste_Decompilado/FMOD/DSP_NORMALIZE.cs
+./Celeste_Decompilado/FMOD/SOUND_PCMSETPOSCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_SETPARAM_INT_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PAN.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_FFT.cs
+./Celeste_Decompilado/FMOD/SOUND_TYPE.cs
+./Celeste_Decompilado/FMOD/FILE_ASYNCCANCELCALLBACK.cs
+./Celeste_Decompilado/FMOD/MEMORY_TYPE.cs
+./Celeste_Decompilado/FMOD/PLUGINTYPE.cs
+./Celeste_Decompilado/FMOD/StringMarshalHelper.cs
+./Celeste_Decompilado/FMOD/DSP_GETCLOCK_FUNC.cs
+./Celeste_Decompilado/FMOD/DEBUG_MODE.cs
+./Celeste_Decompilado/FMOD/CREATESOUNDEXINFO.cs
+./Celeste_Decompilado/FMOD/DSP_REALLOC_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_STATE_PAN_FUNCTIONS.cs
+./Celeste_Decompilado/FMOD/DSP_FREE_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_FADER.cs
+./Celeste_Decompilado/FMOD/Factory.cs
+./Celeste_Decompilado/FMOD/System.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_BOOL.cs
+./Celeste_Decompilado/FMOD/DSP_DESCRIPTION.cs
+./Celeste_Decompilado/FMOD/DSP_CHANNELMIX.cs
+./Celeste_Decompilado/FMOD/INITFLAGS.cs
+./Celeste_Decompilado/FMOD/OPENSTATE.cs
+./Celeste_Decompilado/FMOD/DSP_SYSTEM_REGISTER_CALLBACK.cs
+./Celeste_Decompilado/FMOD/StringWrapper.cs
+./Celeste_Decompilado/FMOD/CB_3D_ROLLOFFCALLBACK.cs
+./Celeste_Decompilado/FMOD/CHANNEL_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_SETPARAM_BOOL_CALLBACK.cs
+./Celeste_Decompilado/FMOD/MEMORY_ALLOC_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_TREMOLO.cs
+./Celeste_Decompilado/FMOD/ERRORCALLBACK_INSTANCETYPE.cs
+./Celeste_Decompilado/FMOD/DSP_METERING_INFO.cs
+./Celeste_Decompilado/FMOD/DSP_OSCILLATOR.cs
+./Celeste_Decompilado/FMOD/SYSTEM_CALLBACK_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_PITCHSHIFT.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_3DATTRIBUTES.cs
+./Celeste_Decompilado/FMOD/DSP_TYPE.cs
+./Celeste_Decompilado/FMOD/TAG.cs
+./Celeste_Decompilado/FMOD/PORT_INDEX.cs
+./Celeste_Decompilado/FMOD/DSP_THREE_EQ_CROSSOVERSLOPE_TYPE.cs
+./Celeste_Decompilado/FMOD/CHANNELCONTROL_CALLBACK_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_GETPARAM_BOOL_CALLBACK.cs
+./Celeste_Decompilado/FMOD/SOUNDGROUP_BEHAVIOR.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_TYPE.cs
+./Celeste_Decompilado/FMOD/DEBUG_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_SFXREVERB.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SUMSTEREOTOSURROUNDMATRIX_FUNC.cs
+./Celeste_Decompilado/FMOD/ChannelControl.cs
+./Celeste_Decompilado/FMOD/DSP_BUFFER_ARRAY.cs
+./Celeste_Decompilado/FMOD/CHANNELCONTROL_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_STATE_DFT_FUNCTIONS.cs
+./Celeste_Decompilado/FMOD/Debug.cs
+./Celeste_Decompilado/FMOD/DSP_COMPRESSOR.cs
+./Celeste_Decompilado/FMOD/DSP_FLANGE.cs
+./Celeste_Decompilado/FMOD/FILE_SEEKCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_FLOAT.cs
+./Celeste_Decompilado/FMOD/DSP_DFT_FFTREAL_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_HIGHPASS.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SUMSURROUNDMATRIX_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_RETURN.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_INT.cs
+./Celeste_Decompilado/FMOD/Error.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SUMSTEREOMATRIX_FUNC.cs
+./Celeste_Decompilado/FMOD/TAGDATATYPE.cs
+./Celeste_Decompilado/FMOD/COMPLEX.cs
+./Celeste_Decompilado/FMOD/DSP_FFT_WINDOW.cs
+./Celeste_Decompilado/FMOD/DSP_CREATECALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_SURROUND_FLAGS.cs
+./Celeste_Decompilado/FMOD/DSP_MULTIBAND_EQ_FILTER_TYPE.cs
+./Celeste_Decompilado/FMOD/Sound.cs
+./Celeste_Decompilado/FMOD/RESULT.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_SIDECHAIN.cs
+./Celeste_Decompilado/FMOD/ERRORCALLBACK_INFO.cs
+./Celeste_Decompilado/FMOD/Memory.cs
+./Celeste_Decompilado/FMOD/DSP_CONVOLUTION_REVERB.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_DATA_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_LOWPASS_SIMPLE.cs
+./Celeste_Decompilado/FMOD/DSP_DISTORTION.cs
+./Celeste_Decompilado/FMOD/HandleBase.cs
+./Celeste_Decompilado/FMOD/DSP_SETPOSITIONCALLBACK.cs
+./Celeste_Decompilado/FMOD/MODE.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_OVERALLGAIN.cs
+./Celeste_Decompilado/FMOD/DSP_ENVELOPEFOLLOWER.cs
+./Celeste_Decompilado/FMOD/SOUND_NONBLOCKCALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_2D_STEREO_MODE_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_GETUSERDATA_FUNC.cs
+./Celeste_Decompilado/FMOD/DEBUG_FLAGS.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_GETROLLOFFGAIN_FUNC.cs
+./Celeste_Decompilado/FMOD/CONSTANTS.cs
+./Celeste_Decompilado/FMOD/DSP_PAN_3D_EXTENT_MODE_TYPE.cs
+./Celeste_Decompilado/FMOD/DSP_THREE_EQ.cs
+./Celeste_Decompilado/FMOD/ADVANCEDSETTINGS.cs
+./Celeste_Decompilado/FMOD/DSP_STATE_FUNCTIONS.cs
+./Celeste_Decompilado/FMOD/DSP_LOG_FUNC.cs
+./Celeste_Decompilado/FMOD/DSP_PROCESS_CALLBACK.cs
+./Celeste_Decompilado/FMOD/CHANNELMASK.cs
+./Celeste_Decompilado/FMOD/DSP.cs
+./Celeste_Decompilado/FMOD/DSP_PARAMETER_FLOAT_MAPPING_PIECEWISE_LINEAR.cs
+./Celeste_Decompilado/FMOD/DSP_DELAY.cs
+./Celeste_Decompilado/FMOD/DSP_LOWPASS.cs
+./Celeste_Decompilado/FMOD/DSP_ALLOC_FUNC.cs
+./Celeste_Decompilado/FMOD/Geometry.cs
+./Celeste_Decompilado/FMOD/DSP_GETPARAM_DATA_CALLBACK.cs
+./Celeste_Decompilado/FMOD/DSP_GETPARAM_INT_CALLBACK.cs
+./Celeste_Decompilado/FMOD/CHANNELCONTROL_DSP_INDEX.cs
+./Celeste_Decompilado/FMOD/SOUND_FORMAT.cs
+./Celeste_Decompilado/FMOD/TIMEUNIT.cs
+./Celeste_Decompilado/FMOD/PRESET.cs
+./Celeste_Decompilado/FMOD/DSP_CHORUS.cs
+./Celeste_Decompilado/FMOD/DSP_LIMITER.cs
+./Celeste_Decompilado/FMOD/DSP_ITECHO.cs
+./Celeste_Decompilado/Celeste/DreamBlock.cs
+./Celeste_Decompilado/Celeste/RumbleAmount.cs
+./Celeste_Decompilado/Celeste/CS10_MoonIntro.cs
+./Celeste_Decompilado/Celeste/BirdTutorialGui.cs
+./Celeste_Decompilado/Celeste/MenuButton.cs
+./Celeste_Decompilado/Celeste/CS04_Gondola.cs
+./Celeste_Decompilado/Celeste/Autotiler.cs
+./Celeste_Decompilado/Celeste/AreaComplete.cs
+./Celeste_Decompilado/Celeste/CS05_TheoPhone.cs
+./Celeste_Decompilado/Celeste/CS07_Ascend.cs
+./Celeste_Decompilado/Celeste/SpeedRing.cs
+./Celeste_Decompilado/Celeste/ClutterBlockGenerator.cs
+./Celeste_Decompilado/Celeste/LevelUpEffect.cs
+./Celeste_Decompilado/Celeste/Torch.cs
+./Celeste_Decompilado/Celeste/UnlockedPico8Message.cs
+./Celeste_Decompilado/Celeste/StaticMover.cs
+./Celeste_Decompilado/Celeste/CoreModeListener.cs
+./Celeste_Decompilado/Celeste/IntroVignette.cs
+./Celeste_Decompilado/Celeste/CS10_FinalLaunch.cs
+./Celeste_Decompilado/Celeste/OVR.cs
+./Celeste_Decompilado/Celeste/MountainCamera.cs
+./Celeste_Decompilado/Celeste/CSGEN_StrawberrySeeds.cs
+./Celeste_Decompilado/Celeste/Holdable.cs
+./Celeste_Decompilado/Celeste/CoreModeToggle.cs
+./Celeste_Decompilado/Celeste/CS10_Ending.cs
+./Celeste_Decompilado/Celeste/CrystalStaticSpinner.cs
+./Celeste_Decompilado/Celeste/GameLoader.cs
+./Celeste_Decompilado/Celeste/InteractTrigger.cs
+./Celeste_Decompilado/Celeste/NPC06_Badeline_Crying.cs
+./Celeste_Decompilado/Celeste/CS03_OshiroRooftop.cs
+./Celeste_Decompilado/Celeste/SummitCheckpoint.cs
+./Celeste_Decompilado/Celeste/CS03_OshiroMasterSuite.cs
+./Celeste_Decompilado/Celeste/PlayerPlayback.cs
+./Celeste_Decompilado/Celeste/Glitch.cs
+./Celeste_Decompilado/Celeste/SummitGemManager.cs
+./Celeste_Decompilado/Celeste/AreaCompleteTitle.cs
+./Celeste_Decompilado/Celeste/Player.cs
+./Celeste_Decompilado/Celeste/NPC04_Granny.cs
+./Celeste_Decompilado/Celeste/Glider.cs
+./Celeste_Decompilado/Celeste/BadelineAutoAnimator.cs
+./Celeste_Decompilado/Celeste/NPC03_Oshiro_Hallway2.cs
+./Celeste_Decompilado/Celeste/MirrorSurfaces.cs
+./Celeste_Decompilado/Celeste/DeathEffect.cs
+./Celeste_Decompilado/Celeste/Spikes.cs
+./Celeste_Decompilado/Celeste/BadelineOldsite.cs
+./Celeste_Decompilado/Celeste/NPC06_Granny_Ending.cs
+./Celeste_Decompilado/Celeste/DeathsCounter.cs
+./Celeste_Decompilado/Celeste/OverworldReflectionsFall.cs
+./Celeste_Decompilado/Celeste/CS07_Ending.cs
+./Celeste_Decompilado/Celeste/OshiroTrigger.cs
+./Celeste_Decompilado/Celeste/CS06_Granny.cs
+./Celeste_Decompilado/Celeste/SummitGem.cs
+./Celeste_Decompilado/Celeste/FinalBossStarfield.cs
+./Celeste_Decompilado/Celeste/LanguageSelectUI.cs
+./Celeste_Decompilado/Celeste/CS03_Diary.cs
+./Celeste_Decompilado/Celeste/ParticleRenderer.cs
+./Celeste_Decompilado/Celeste/DreamWipe.cs
+./Celeste_Decompilado/Celeste/LightFadeTrigger.cs
+./Celeste_Decompilado/Celeste/SurfaceIndex.cs
+./Celeste_Decompilado/Celeste/MiniTextbox.cs
+./Celeste_Decompilado/Celeste/DisperseImage.cs
+./Celeste_Decompilado/Celeste/StarJumpBlock.cs
+./Celeste_Decompilado/Celeste/IntroCar.cs
+./Celeste_Decompilado/Celeste/CrystalDebris.cs
+./Celeste_Decompilado/Celeste/HoldableCollider.cs
+./Celeste_Decompilado/Celeste/Platform.cs
+./Celeste_Decompilado/Celeste/OldSiteChaseMusicHandler.cs
+./Celeste_Decompilado/Celeste/WaveDashPage05.cs
+./Celeste_Decompilado/Celeste/Snow.cs
+./Celeste_Decompilado/Celeste/AltMusicTrigger.cs
+./Celeste_Decompilado/Celeste/ColorGrade.cs
+./Celeste_Decompilado/Celeste/OuiJournalPoem.cs
+./Celeste_Decompilado/Celeste/GrabModes.cs
+./Celeste_Decompilado/Celeste/HeightDisplay.cs
+./Celeste_Decompilado/Celeste/OuiFileSelect.cs
+./Celeste_Decompilado/Celeste/FinalBossBeam.cs
+./Celeste_Decompilado/Celeste/TouchSwitch.cs
+./Celeste_Decompilado/Celeste/KeyboardConfigUI.cs
+./Celeste_Decompilado/Celeste/HeartGem.cs
+./Celeste_Decompilado/Celeste/CS05_TheoInMirror.cs
+./Celeste_Decompilado/Celeste/OuiChapterSelect.cs
+./Celeste_Decompilado/Celeste/Oui.cs
+./Celeste_Decompilado/Celeste/BlackholeStrengthTrigger.cs
+./Celeste_Decompilado/Celeste/Solid.cs
+./Celeste_Decompilado/Celeste/MainMenuClimb.cs
+./Celeste_Decompilado/Celeste/IOverlayHandler.cs
+./Celeste_Decompilado/Celeste/TempleEye.cs
+./Celeste_Decompilado/Celeste/FloatingDebris.cs
+./Celeste_Decompilado/Celeste/NPC02_Theo.cs
+./Celeste_Decompilado/Celeste/AnimatedTiles.cs
+./Celeste_Decompilado/Celeste/Bridge.cs
+./Celeste_Decompilado/Celeste/SeekerStatue.cs
+./Celeste_Decompilado/Celeste/HiresRenderer.cs
+./Celeste_Decompilado/Celeste/JumpthruPlatform.cs
+./Celeste_Decompilado/Celeste/WindTrigger.cs
+./Celeste_Decompilado/Celeste/FallWipe.cs
+./Celeste_Decompilado/Celeste/HiresSnow.cs
+./Celeste_Decompilado/Celeste/CS03_Memo.cs
+./Celeste_Decompilado/Celeste/ForsakenCitySatellite.cs
+./Celeste_Decompilado/Celeste/StarJumpController.cs
+./Celeste_Decompilado/Celeste/FallingBlock.cs
+./Celeste_Decompilado/Celeste/Overlay.cs
+./Celeste_Decompilado/Celeste/Selfie.cs
+./Celeste_Decompilado/Celeste/ClutterSwitch.cs
+./Celeste_Decompilado/Celeste/Spawn.cs
+./Celeste_Decompilado/Celeste/NPC05_Theo_Mirror.cs
+./Celeste_Decompilado/Celeste/PlayerHair.cs
+./Celeste_Decompilado/Celeste/Bumper.cs
+./Celeste_Decompilado/Celeste/Assists.cs
+./Celeste_Decompilado/Celeste/Flagline.cs
+./Celeste_Decompilado/Celeste/FadeWipe.cs
+./Celeste_Decompilado/Celeste/CreditsTrigger.cs
+./Celeste_Decompilado/Celeste/TotalStrawberriesDisplay.cs
+./Celeste_Decompilado/Celeste/MoveBlock.cs
+./Celeste_Decompilado/Celeste/Hahaha.cs
+./Celeste_Decompilado/Celeste/TempleGate.cs
+./Celeste_Decompilado/Celeste/HeartGemDoor.cs
+./Celeste_Decompilado/Celeste/NPC03_Oshiro_Breakdown.cs
+./Celeste_Decompilado/Celeste/CS03_OshiroHallway2.cs
+./Celeste_Decompilado/Celeste/HeartGemDisplay.cs
+./Celeste_Decompilado/Celeste/Backdrop.cs
+./Celeste_Decompilado/Celeste/ClutterAbsorbEffect.cs
+./Celeste_Decompilado/Celeste/PreviewPortrait.cs
+./Celeste_Decompilado/Celeste/SinkingPlatform.cs
+./Celeste_Decompilado/Celeste/GameplayStats.cs
+./Celeste_Decompilado/Celeste/MEP.cs
+./Celeste_Decompilado/Celeste/SummitVignette.cs
+./Celeste_Decompilado/Celeste/CheckpointData.cs
+./Celeste_Decompilado/Celeste/CS06_BossIntro.cs
+./Celeste_Decompilado/Celeste/PufferCollider.cs
+./Celeste_Decompilado/Celeste/SeekerCollider.cs
+./Celeste_Decompilado/Celeste/OuiFileSelectSlot.cs
+./Celeste_Decompilado/Celeste/GrabbyIcon.cs
+./Celeste_Decompilado/Celeste/CollisionData.cs
+./Celeste_Decompilado/Celeste/CoreStarsFG.cs
+./Celeste_Decompilado/Celeste/DisplacementRenderer.cs
+./Celeste_Decompilado/Celeste/Switch.cs
+./Celeste_Decompilado/Celeste/PlayerDeadBody.cs
+./Celeste_Decompilado/Celeste/InputMappingInfo.cs
+./Celeste_Decompilado/Celeste/CS08_EnterDoor.cs
+./Celeste_Decompilado/Celeste/CliffsideWindFlag.cs
+./Celeste_Decompilado/Celeste/NoRefillTrigger.cs
+./Celeste_Decompilado/Celeste/LevelExit.cs
+./Celeste_Decompilado/Celeste/DustEdge.cs
+./Celeste_Decompilado/Celeste/TempleBigEyeball.cs
+./Celeste_Decompilado/Celeste/OshiroLobbyBell.cs
+./Celeste_Decompilado/Celeste/ResortRoofEnding.cs
+./Celeste_Decompilado/Celeste/WaveDashPage03.cs
+./Celeste_Decompilado/Celeste/GlassBlockBg.cs
+./Celeste_Decompilado/Celeste/EffectCutout.cs
+./Celeste_Decompilado/Celeste/Key.cs
+./Celeste_Decompilado/Celeste/CS10_Farewell.cs
+./Celeste_Decompilado/Celeste/SpotlightWipe.cs
+./Celeste_Decompilado/Celeste/CutsceneNode.cs
+./Celeste_Decompilado/Celeste/DreamStars.cs
+./Celeste_Decompilado/Celeste/CS02_BadelineIntro.cs
+./Celeste_Decompilado/Celeste/JumpThru.cs
+./Celeste_Decompilado/Celeste/AreaKey.cs
+./Celeste_Decompilado/Celeste/PlayerDashAssist.cs
+./Celeste_Decompilado/Celeste/MagicGlow.cs
+./Celeste_Decompilado/Celeste/CustomSpriteEffect.cs
+./Celeste_Decompilado/Celeste/CS02_DreamingPhonecall.cs
+./Celeste_Decompilado/Celeste/StarfieldWipe.cs
+./Celeste_Decompilado/Celeste/TileInterceptor.cs
+./Celeste_Decompilado/Celeste/ForegroundDebris.cs
+./Celeste_Decompilado/Celeste/BloomPoint.cs
+./Celeste_Decompilado/Celeste/KevinsPC.cs
+./Celeste_Decompilado/Celeste/SpeedrunTimerDisplay.cs
+./Celeste_Decompilado/Celeste/NPC08_Granny.cs
+./Celeste_Decompilado/Celeste/FlutterBird.cs
+./Celeste_Decompilado/Celeste/Killbox.cs
+./Celeste_Decompilado/Celeste/CS04_MirrorPortal.cs
+./Celeste_Decompilado/Celeste/PlayerInventory.cs
+./Celeste_Decompilado/Celeste/CS06_Campfire.cs
+./Celeste_Decompilado/Celeste/Dust.cs
+./Celeste_Decompilado/Celeste/Settings.cs
+./Celeste_Decompilado/Celeste/StopBoostTrigger.cs
+./Celeste_Decompilado/Celeste/OuiAssistMode.cs
+./Celeste_Decompilado/Celeste/Payphone.cs
+./Celeste_Decompilado/Celeste/LookoutBlocker.cs
+./Celeste_Decompilado/Celeste/CS00_Granny.cs
+./Celeste_Decompilado/Celeste/DustGraphic.cs
+./Celeste_Decompilado/Celeste/MainMenuSmallButton.cs
+./Celeste_Decompilado/Celeste/SpawnFacingTrigger.cs
+./Celeste_Decompilado/Celeste/AreaData.cs
+./Celeste_Decompilado/Celeste/FinalBoss.cs
+./Celeste_Decompilado/Celeste/CoreMessage.cs
+./Celeste_Decompilado/Celeste/GlassBlock.cs
+./Celeste_Decompilado/Celeste/Maddy3D.cs
+./Celeste_Decompilado/Celeste/TheoCrystal.cs
+./Celeste_Decompilado/Celeste/NPC03_Oshiro_Rooftop.cs
+./Celeste_Decompilado/Celeste/RunLengthEncoding.cs
+./Celeste_Decompilado/Celeste/LightningRenderer.cs
+./Celeste_Decompilado/Celeste/Follower.cs
+./Celeste_Decompilado/Celeste/StrawberryPoints.cs
+./Celeste_Decompilado/Celeste/VertexLight.cs
+./Celeste_Decompilado/Celeste/BreathingRumbler.cs
+./Celeste_Decompilado/Celeste/MirrorFG.cs
+./Celeste_Decompilado/Celeste/MoonCreature.cs
+./Celeste_Decompilado/Celeste/RespawnTargetTrigger.cs
+./Celeste_Decompilado/Celeste/CS03_OshiroLobby.cs
+./Celeste_Decompilado/Celeste/Clothesline.cs
+./Celeste_Decompilado/Celeste/NPC08_Theo.cs
+./Celeste_Decompilado/Celeste/TransitionListener.cs
+./Celeste_Decompilado/Celeste/ResortLantern.cs
+./Celeste_Decompilado/Celeste/RotatingPlatform.cs
+./Celeste_Decompilado/Celeste/CS08_Ending.cs
+./Celeste_Decompilado/Celeste/PlayerAnimMetadata.cs
+./Celeste_Decompilado/Celeste/FileErrorOverlay.cs
+./Celeste_Decompilado/Celeste/NPC06_Theo_Plateau.cs
+./Celeste_Decompilado/Celeste/ActiveFont.cs
+./Celeste_Decompilado/Celeste/TempleBigEyeballShockwave.cs
+./Celeste_Decompilado/Celeste/CS02_Mirror.cs
+./Celeste_Decompilado/Celeste/CheckpointBlockerTrigger.cs
+./Celeste_Decompilado/Celeste/AngryOshiro.cs
+./Celeste_Decompilado/Celeste/PreviewPostcard.cs
+./Celeste_Decompilado/Celeste/Leader.cs
+./Celeste_Decompilado/Celeste/Plateau.cs
+./Celeste_Decompilado/Celeste/LevelEnter.cs
+./Celeste_Decompilado/Celeste/Strawberry.cs
+./Celeste_Decompilado/Celeste/ClutterBlockBase.cs
+./Celeste_Decompilado/Celeste/BackdropRenderer.cs
+./Celeste_Decompilado/Celeste/SoundSourceEntity.cs
+./Celeste_Decompilado/Celeste/Collision.cs
+./Celeste_Decompilado/Celeste/BreathingMinigame.cs
+./Celeste_Decompilado/Celeste/CameraTargetTrigger.cs
+./Celeste_Decompilado/Celeste/IntroCrusher.cs
+./Celeste_Decompilado/Celeste/SFX.cs
+./Celeste_Decompilado/Celeste/LightingRenderer.cs
+./Celeste_Decompilado/Celeste/EventTrigger.cs
+
+CSProj / Sln heads:
+=== ./Celeste_Decompilado/Celeste.csproj ===
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Celeste</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net45</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+    <NoWarn>$(NoWarn);0649;0169;0219</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Microsoft.Xna.Framework.RuntimeProfile" />
+    <EmbeddedResource Include="Microsoft.Xna.Framework.RuntimeProfile"
+                      LogicalName="Microsoft.Xna.Framework.RuntimeProfile" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework">
+      <HintPath>../refs_dlls/Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Microsoft.Xna.Framework.Graphics">
+      <HintPath>../refs_dlls/Microsoft.Xna.Framework.Graphics.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Microsoft.Xna.Framework.Game">
+      <HintPath>../refs_dlls/Microsoft.Xna.Framework.Game.dll</HintPath>
+    </Reference></ItemGroup>
+</Project>
+
+SEARCHES:
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:13:	private enum MouseModes
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:36:	private MouseModes mouseMode;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:38:	private Vector2 lastMouseScreenPosition;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:145:	private void UpdateMouse()
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:147:		mousePosition = Vector2.Transform(MInput.Mouse.Position, Matrix.Invert(Camera.Matrix));
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:153:		vector.X = (lastMouseScreenPosition.X - MInput.Mouse.Position.X) / Camera.Zoom;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:154:		vector.Y = (lastMouseScreenPosition.Y - MInput.Mouse.Position.Y) / Camera.Zoom;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:155:		if (MInput.Keyboard.Pressed(Keys.Space) && MInput.Keyboard.Check(Keys.LeftControl))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:160:		int num = Math.Sign(MInput.Mouse.WheelDelta);
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:171:		UpdateMouse();
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:173:		if (mouseMode == MouseModes.Hover)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:176:			if (MInput.Mouse.PressedLeftButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:179:				if (MInput.Keyboard.Check(Keys.Space))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:181:					mouseMode = MouseModes.Pan;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:183:				else if (MInput.Keyboard.Check(Keys.LeftControl))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:191:						mouseMode = MouseModes.Select;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:194:				else if (MInput.Keyboard.Check(Keys.F))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:221:						mouseMode = MouseModes.Resize;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:230:						mouseMode = MouseModes.Move;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:235:					mouseMode = MouseModes.Select;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:238:			else if (MInput.Mouse.PressedRightButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:245:						if (MInput.Keyboard.Check(Keys.F))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:257:			else if (MInput.Mouse.PressedMiddleButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:259:				mouseMode = MouseModes.Pan;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:261:			else if (!MInput.Keyboard.Check(Keys.Space))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:270:				if (MInput.Keyboard.Check(Keys.LeftControl))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:272:					if (MInput.Keyboard.Pressed(Keys.Z))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:276:					else if (MInput.Keyboard.Pressed(Keys.Y))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:280:					else if (MInput.Keyboard.Pressed(Keys.A))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:287:		else if (mouseMode == MouseModes.Pan)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:290:			if (!MInput.Mouse.CheckLeftButton && !MInput.Mouse.CheckMiddleButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:292:				mouseMode = MouseModes.Hover;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:295:		else if (mouseMode == MouseModes.Select)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:297:			Rectangle mouseRect = GetMouseRect(mouseDragStart, mousePosition);
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:305:			if (!MInput.Mouse.CheckLeftButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:307:				if (MInput.Keyboard.Check(Keys.LeftControl))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:315:				mouseMode = MouseModes.Hover;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:318:		else if (mouseMode == MouseModes.Move)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:321:			bool snap = selection.Count == 1 && !MInput.Keyboard.Check(Keys.LeftAlt);
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:326:			if (!MInput.Mouse.CheckLeftButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:328:				mouseMode = MouseModes.Hover;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:331:		else if (mouseMode == MouseModes.Resize)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:338:			if (!MInput.Mouse.CheckLeftButton)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:340:				mouseMode = MouseModes.Hover;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:343:		if (MInput.Keyboard.Pressed(Keys.D1))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:347:		else if (MInput.Keyboard.Pressed(Keys.D2))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:351:		else if (MInput.Keyboard.Pressed(Keys.D3))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:355:		else if (MInput.Keyboard.Pressed(Keys.D4))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:359:		else if (MInput.Keyboard.Pressed(Keys.D5))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:363:		else if (MInput.Keyboard.Pressed(Keys.D6))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:367:		else if (MInput.Keyboard.Pressed(Keys.D7))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:371:		if (MInput.Keyboard.Pressed(Keys.F1) || (MInput.Keyboard.Check(Keys.LeftControl) && MInput.Keyboard.Pressed(Keys.S)))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:380:		lastMouseScreenPosition = MInput.Mouse.Position;
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:394:		UpdateMouse();
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:423:		if (mouseMode == MouseModes.Hover)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:428:		else if (mouseMode == MouseModes.Select)
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:430:			Draw.Rect(GetMouseRect(mouseDragStart, mousePosition), Color.Lime * 0.25f);
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:445:		if (MInput.Keyboard.Check(Keys.Q))
+Celeste_Decompilado/Celeste.Editor/MapEditor.cs:558:	private Rectangle GetMouseRect(Vector2 a, Vector2 b)
+Celeste_Decompilado/Monocle/VirtualInput.cs:21:		MInput.VirtualInputs.Add(this);
+Celeste_Decompilado/Monocle/VirtualInput.cs:26:		MInput.VirtualInputs.Remove(this);
+Celeste_Decompilado/Monocle/VirtualButton.cs:35:			if (MInput.Disabled)
+Celeste_Decompilado/Monocle/VirtualButton.cs:47:			if (DebugOverridePressed.HasValue && MInput.Keyboard.Check(DebugOverridePressed.Value))
+Celeste_Decompilado/Monocle/VirtualButton.cs:51:			if (MInput.Disabled)
+Celeste_Decompilado/Monocle/VirtualButton.cs:71:			if (MInput.Disabled)
+Celeste_Decompilado/Monocle/MInput.cs:8:public static class MInput
+Celeste_Decompilado/Monocle/MInput.cs:10:	public class KeyboardData
+Celeste_Decompilado/Monocle/MInput.cs:12:		public KeyboardState PreviousState;
+Celeste_Decompilado/Monocle/MInput.cs:14:		public KeyboardState CurrentState;
+Celeste_Decompilado/Monocle/MInput.cs:16:		internal KeyboardData()
+Celeste_Decompilado/Monocle/MInput.cs:23:			CurrentState = Microsoft.Xna.Framework.Input.Keyboard.GetState();
+Celeste_Decompilado/Monocle/MInput.cs:29:			CurrentState = default(KeyboardState);
+Celeste_Decompilado/Monocle/MInput.cs:166:	public class MouseData
+Celeste_Decompilado/Monocle/MInput.cs:168:		public MouseState PreviousState;
+Celeste_Decompilado/Monocle/MInput.cs:170:		public MouseState CurrentState;
+Celeste_Decompilado/Monocle/MInput.cs:299:				Microsoft.Xna.Framework.Input.Mouse.SetPosition((int)Math.Round(vector.X), (int)Math.Round(vector.Y));
+Celeste_Decompilado/Monocle/MInput.cs:303:		internal MouseData()
+Celeste_Decompilado/Monocle/MInput.cs:305:			PreviousState = default(MouseState);
+Celeste_Decompilado/Monocle/MInput.cs:306:			CurrentState = default(MouseState);
+Celeste_Decompilado/Monocle/MInput.cs:312:			CurrentState = Microsoft.Xna.Framework.Input.Mouse.GetState();
+Celeste_Decompilado/Monocle/MInput.cs:318:			CurrentState = default(MouseState);
+Celeste_Decompilado/Monocle/MInput.cs:322:	public class GamePadData
+Celeste_Decompilado/Monocle/MInput.cs:326:		public GamePadState PreviousState;
+Celeste_Decompilado/Monocle/MInput.cs:328:		public GamePadState CurrentState;
+Celeste_Decompilado/Monocle/MInput.cs:476:		internal GamePadData(int playerIndex)
+Celeste_Decompilado/Monocle/MInput.cs:509:			CurrentState = GamePad.GetState(PlayerIndex);
+Celeste_Decompilado/Monocle/MInput.cs:520:					GamePad.SetVibration(PlayerIndex, 0f, 0f);
+Celeste_Decompilado/Monocle/MInput.cs:528:			CurrentState = default(GamePadState);
+Celeste_Decompilado/Monocle/MInput.cs:529:			Attached = GamePad.GetState(PlayerIndex).IsConnected;
+Celeste_Decompilado/Monocle/MInput.cs:534:			GamePad.SetVibration(PlayerIndex, 0f, 0f);
+Celeste_Decompilado/Monocle/MInput.cs:541:				GamePad.SetVibration(PlayerIndex, strength, strength);
+Celeste_Decompilado/Monocle/MInput.cs:549:			GamePad.SetVibration(PlayerIndex, 0f, 0f);
+Celeste_Decompilado/Monocle/MInput.cs:1353:	public static KeyboardData Keyboard { get; private set; }
+Celeste_Decompilado/Monocle/MInput.cs:1355:	public static MouseData Mouse { get; private set; }
+Celeste_Decompilado/Monocle/MInput.cs:1357:	public static GamePadData[] GamePads { get; private set; }
+Celeste_Decompilado/Monocle/MInput.cs:1361:		Keyboard = new KeyboardData();
+Celeste_Decompilado/Monocle/MInput.cs:1362:		Mouse = new MouseData();
+Celeste_Decompilado/Monocle/MInput.cs:1363:		GamePads = new GamePadData[4];
+Celeste_Decompilado/Monocle/MInput.cs:1366:			GamePads[i] = new GamePadData(i);
+Celeste_Decompilado/Monocle/MInput.cs:1373:		GamePadData[] gamePads = GamePads;
+Celeste_Decompilado/Monocle/MInput.cs:1386:				Keyboard.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1387:				Mouse.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1391:				Keyboard.Update();
+Celeste_Decompilado/Monocle/MInput.cs:1392:				Mouse.Update();
+Celeste_Decompilado/Monocle/MInput.cs:1398:				GamePads[i].Update();
+Celeste_Decompilado/Monocle/MInput.cs:1399:				if (GamePads[i].HasAnyInput())
+Celeste_Decompilado/Monocle/MInput.cs:1404:				if (GamePads[i].Attached)
+Celeste_Decompilado/Monocle/MInput.cs:1409:			if (!flag2 || (!flag && Keyboard.HasAnyInput()))
+Celeste_Decompilado/Monocle/MInput.cs:1416:			Keyboard.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1417:			Mouse.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1420:				GamePads[j].UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1428:		Keyboard.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1429:		Mouse.UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1432:			GamePads[i].UpdateNull();
+Celeste_Decompilado/Monocle/MInput.cs:1447:		GamePads[0].Rumble(strength, time);
+Celeste_Decompilado/Monocle/Calc.cs:1576:		return File.Exists(Path.Combine(Engine.ContentDirectory, filename));
+Celeste_Decompilado/Monocle/Draw.cs:24:		DefaultFont = Engine.Instance.Content.Load<SpriteFont>("Monocle\\MonocleDefault");
+Celeste_Decompilado/Monocle/Binding.cs:11:	public List<Keys> Keyboard = new List<Keys>();
+Celeste_Decompilado/Monocle/Binding.cs:22:			if (Keyboard.Count <= 0)
+Celeste_Decompilado/Monocle/Binding.cs:35:			if (Keyboard.Contains(keys2))
+Celeste_Decompilado/Monocle/Binding.cs:47:			Keyboard.Add(keys2);
+Celeste_Decompilado/Monocle/Binding.cs:104:		if (Keyboard.Contains(key))
+Celeste_Decompilado/Monocle/Binding.cs:106:			if (Keyboard.Count <= 1)
+Celeste_Decompilado/Monocle/Binding.cs:114:			foreach (Keys item in Keyboard)
+Celeste_Decompilado/Monocle/Binding.cs:142:			if (item.Keyboard.Contains(key))
+Celeste_Decompilado/Monocle/Binding.cs:150:	public bool ClearKeyboard()
+Celeste_Decompilado/Monocle/Binding.cs:154:			if (Keyboard.Count <= 1)
+Celeste_Decompilado/Monocle/Binding.cs:159:			for (int i = 1; i < Keyboard.Count; i++)
+Celeste_Decompilado/Monocle/Binding.cs:161:				if (IsExclusive(Keyboard[i]))
+Celeste_Decompilado/Monocle/Binding.cs:166:			Keys item = Keyboard[index];
+Celeste_Decompilado/Monocle/Binding.cs:167:			Keyboard.Clear();
+Celeste_Decompilado/Monocle/Binding.cs:168:			Keyboard.Add(item);
+Celeste_Decompilado/Monocle/Binding.cs:172:			Keyboard.Clear();
+Celeste_Decompilado/Monocle/Binding.cs:206:		foreach (Keys item in Keyboard)
+Celeste_Decompilado/Monocle/Binding.cs:208:			if (MInput.Keyboard.Check(item))
+Celeste_Decompilado/Monocle/Binding.cs:215:			float num = MInput.GamePads[gamepadIndex].Axis(item2, threshold);
+Celeste_Decompilado/Monocle/Binding.cs:226:		for (int i = 0; i < Keyboard.Count; i++)
+Celeste_Decompilado/Monocle/Binding.cs:228:			if (MInput.Keyboard.Check(Keyboard[i]))
+Celeste_Decompilado/Monocle/Binding.cs:235:			if (MInput.GamePads[gamepadIndex].Check(Controller[j], threshold))
+Celeste_Decompilado/Monocle/Binding.cs:245:		for (int i = 0; i < Keyboard.Count; i++)
+Celeste_Decompilado/Monocle/Binding.cs:247:			if (MInput.Keyboard.Pressed(Keyboard[i]))
+Celeste_Decompilado/Monocle/Binding.cs:254:			if (MInput.GamePads[gamepadIndex].Pressed(Controller[j], threshold))
+Celeste_Decompilado/Monocle/Binding.cs:264:		for (int i = 0; i < Keyboard.Count; i++)
+Celeste_Decompilado/Monocle/Binding.cs:266:			if (MInput.Keyboard.Released(Keyboard[i]))
+Celeste_Decompilado/Monocle/Binding.cs:273:			if (MInput.GamePads[gamepadIndex].Released(Controller[j], threshold))
+Celeste_Decompilado/Monocle/Tracker.cs:247:		Type[] types = Assembly.GetExecutingAssembly().GetTypes();
+Celeste_Decompilado/Monocle/Tracker.cs:319:		Type[] types = Assembly.GetExecutingAssembly().GetTypes();
+Celeste_Decompilado/Monocle/Commands.cs:57:	private KeyboardState oldState;
+Celeste_Decompilado/Monocle/Commands.cs:59:	private KeyboardState currentState;
+Celeste_Decompilado/Monocle/Commands.cs:148:		else if (MInput.Keyboard.Pressed(Keys.OemTilde, Keys.Oem8))
+Celeste_Decompilado/Monocle/Commands.cs:151:			currentState = Keyboard.GetState();
+Celeste_Decompilado/Monocle/Commands.cs:155:			if (MInput.Keyboard.Pressed((Keys)(112 + i)))
+Celeste_Decompilado/Monocle/Commands.cs:165:		currentState = Keyboard.GetState();
+Celeste_Decompilado/Monocle/Commands.cs:605:		Type[] types = Assembly.GetCallingAssembly().GetTypes();
+Celeste_Decompilado/Monocle/Commands.cs:614:		types = Assembly.GetExecutingAssembly().GetTypes();
+Celeste_Decompilado/Monocle/Pooler.cs:14:		Type[] types = Assembly.GetExecutingAssembly().GetTypes();
+Celeste_Decompilado/Monocle/Engine.cs:87:	public static string ContentDirectory => Path.Combine(AssemblyDirectory, Instance.Content.RootDirectory);
+Celeste_Decompilado/Monocle/Engine.cs:134:		base.IsMouseVisible = false;
+Celeste_Decompilado/Monocle/Engine.cs:198:		MInput.Initialize();
+Celeste_Decompilado/Monocle/Engine.cs:222:		MInput.Update();
+Celeste_Decompilado/Monocle/Engine.cs:223:		if (ExitOnEscapeKeypress && MInput.Keyboard.Pressed(Keys.Escape))
+Celeste_Decompilado/Monocle/Engine.cs:332:		MInput.Shutdown();
+Celeste_Decompilado/Monocle/PixelFont.cs:48:			VirtualTexture virtualTexture = VirtualContent.CreateTexture(Path.Combine(Path.GetDirectoryName(path).Substring(Engine.ContentDirectory.Length + 1), text));
+Celeste_Decompilado/Monocle/Atlas.cs:104:			using FileStream input2 = File.OpenRead(Path.Combine(Engine.ContentDirectory, path));
+Celeste_Decompilado/Monocle/Atlas.cs:132:			using FileStream input = File.OpenRead(Path.Combine(Engine.ContentDirectory, path + ".bin"));
+Celeste_Decompilado/Monocle/Atlas.cs:160:			using FileStream fileStream2 = File.OpenRead(Path.Combine(Engine.ContentDirectory, path + ".meta"));
+Celeste_Decompilado/Monocle/Atlas.cs:201:			using FileStream fileStream = File.OpenRead(Path.Combine(Engine.ContentDirectory, path + ".meta"));
+Celeste_Decompilado/Monocle/Atlas.cs:242:			if (File.Exists(Path.Combine(Engine.ContentDirectory, path + ".bin")))
+Celeste_Decompilado/Monocle/Atlas.cs:275:			if (!File.Exists(Path.Combine(Engine.ContentDirectory, text)))
+Celeste_Decompilado/Monocle/Atlas.cs:289:		string contentDirectory = Engine.ContentDirectory;
+Celeste_Decompilado/Monocle/VirtualIntegerAxis.cs:54:		if (MInput.Disabled)
+Celeste_Decompilado/Monocle/VirtualJoystick.cs:74:		if (!MInput.Disabled)
+Celeste_Decompilado/Monocle/VirtualTexture.cs:81:			using (FileStream fileStream = File.OpenRead(System.IO.Path.Combine(Engine.ContentDirectory, Path)))
+Celeste_Decompilado/Monocle/VirtualTexture.cs:158:			using (FileStream stream2 = File.OpenRead(System.IO.Path.Combine(Engine.ContentDirectory, Path)))
+Celeste_Decompilado/Monocle/VirtualTexture.cs:180:			Texture = Engine.Instance.Content.Load<Texture2D>(assetName);
+Celeste_Decompilado/Monocle/VirtualTexture.cs:185:			using (FileStream stream = File.OpenRead(System.IO.Path.Combine(Engine.ContentDirectory, Path)))
+Celeste_Decompilado/FMOD/DSP_STATE.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/MEMORY_FREE_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETSAMPLERATE_FUNC.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_FFT.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PAN_MODE_TYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/SPEAKER.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/ChannelGroup.cs:5:namespace FMOD;
+Celeste_Decompilado/FMOD/ChannelGroup.cs:11:		RESULT num = FMOD_ChannelGroup_Release(getRaw());
+Celeste_Decompilado/FMOD/ChannelGroup.cs:23:		RESULT result = FMOD_ChannelGroup_AddGroup(getRaw(), group.getRaw(), propagatedspclock, out connection2);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:30:		return FMOD_ChannelGroup_GetNumGroups(getRaw(), out numgroups);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:37:		RESULT result = FMOD_ChannelGroup_GetGroup(getRaw(), index, out group2);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:46:		RESULT result = FMOD_ChannelGroup_GetParentGroup(getRaw(), out group2);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:54:		RESULT result = FMOD_ChannelGroup_GetName(getRaw(), intPtr, namelen);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:62:		return FMOD_ChannelGroup_GetNumChannels(getRaw(), out numchannels);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:69:		RESULT result = FMOD_ChannelGroup_GetChannel(getRaw(), index, out channel2);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:74:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:75:	private static extern RESULT FMOD_ChannelGroup_Release(IntPtr channelgroup);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:77:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:78:	private static extern RESULT FMOD_ChannelGroup_AddGroup(IntPtr channelgroup, IntPtr group, bool propagatedspclock, out IntPtr connection);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:80:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:81:	private static extern RESULT FMOD_ChannelGroup_GetNumGroups(IntPtr channelgroup, out int numgroups);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:83:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:84:	private static extern RESULT FMOD_ChannelGroup_GetGroup(IntPtr channelgroup, int index, out IntPtr group);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:86:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:87:	private static extern RESULT FMOD_ChannelGroup_GetParentGroup(IntPtr channelgroup, out IntPtr group);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:89:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:90:	private static extern RESULT FMOD_ChannelGroup_GetName(IntPtr channelgroup, IntPtr name, int namelen);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:92:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:93:	private static extern RESULT FMOD_ChannelGroup_GetNumChannels(IntPtr channelgroup, out int numchannels);
+Celeste_Decompilado/FMOD/ChannelGroup.cs:95:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/ChannelGroup.cs:96:	private static extern RESULT FMOD_ChannelGroup_GetChannel(IntPtr channelgroup, int index, out IntPtr channel);
+Celeste_Decompilado/FMOD/DSPCONNECTION_TYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSPConnection.cs:4:namespace FMOD;
+Celeste_Decompilado/FMOD/DSPConnection.cs:12:		RESULT result = FMOD_DSPConnection_GetInput(rawPtr, out input2);
+Celeste_Decompilado/FMOD/DSPConnection.cs:21:		RESULT result = FMOD_DSPConnection_GetOutput(rawPtr, out output2);
+Celeste_Decompilado/FMOD/DSPConnection.cs:28:		return FMOD_DSPConnection_SetMix(rawPtr, volume);
+Celeste_Decompilado/FMOD/DSPConnection.cs:33:		return FMOD_DSPConnection_GetMix(rawPtr, out volume);
+Celeste_Decompilado/FMOD/DSPConnection.cs:38:		return FMOD_DSPConnection_SetMixMatrix(rawPtr, matrix, outchannels, inchannels, inchannel_hop);
+Celeste_Decompilado/FMOD/DSPConnection.cs:43:		return FMOD_DSPConnection_GetMixMatrix(rawPtr, matrix, out outchannels, out inchannels, inchannel_hop);
+Celeste_Decompilado/FMOD/DSPConnection.cs:48:		return FMOD_DSPConnection_GetType(rawPtr, out type);
+Celeste_Decompilado/FMOD/DSPConnection.cs:53:		return FMOD_DSPConnection_SetUserData(rawPtr, userdata);
+Celeste_Decompilado/FMOD/DSPConnection.cs:58:		return FMOD_DSPConnection_GetUserData(rawPtr, out userdata);
+Celeste_Decompilado/FMOD/DSPConnection.cs:61:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:62:	private static extern RESULT FMOD_DSPConnection_GetInput(IntPtr dspconnection, out IntPtr input);
+Celeste_Decompilado/FMOD/DSPConnection.cs:64:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:65:	private static extern RESULT FMOD_DSPConnection_GetOutput(IntPtr dspconnection, out IntPtr output);
+Celeste_Decompilado/FMOD/DSPConnection.cs:67:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:68:	private static extern RESULT FMOD_DSPConnection_SetMix(IntPtr dspconnection, float volume);
+Celeste_Decompilado/FMOD/DSPConnection.cs:70:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:71:	private static extern RESULT FMOD_DSPConnection_GetMix(IntPtr dspconnection, out float volume);
+Celeste_Decompilado/FMOD/DSPConnection.cs:73:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:74:	private static extern RESULT FMOD_DSPConnection_SetMixMatrix(IntPtr dspconnection, float[] matrix, int outchannels, int inchannels, int inchannel_hop);
+Celeste_Decompilado/FMOD/DSPConnection.cs:76:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:77:	private static extern RESULT FMOD_DSPConnection_GetMixMatrix(IntPtr dspconnection, float[] matrix, out int outchannels, out int inchannels, int inchannel_hop);
+Celeste_Decompilado/FMOD/DSPConnection.cs:79:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:80:	private static extern RESULT FMOD_DSPConnection_GetType(IntPtr dspconnection, out DSPCONNECTION_TYPE type);
+Celeste_Decompilado/FMOD/DSPConnection.cs:82:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:83:	private static extern RESULT FMOD_DSPConnection_SetUserData(IntPtr dspconnection, IntPtr userdata);
+Celeste_Decompilado/FMOD/DSPConnection.cs:85:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/DSPConnection.cs:86:	private static extern RESULT FMOD_DSPConnection_GetUserData(IntPtr dspconnection, out IntPtr userdata);
+Celeste_Decompilado/FMOD/DSP_PARAMETER_FLOAT_MAPPING_TYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETLISTENERATTRIBUTES_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_3DATTRIBUTES_MULTI.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/VERSION.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/VERSION.cs:7:	public const string dll = "fmod";
+Celeste_Decompilado/FMOD/DSP_OBJECTPAN.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_MULTIBAND_EQ.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_RELEASECALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/SOUND_PCMREADCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETSPEAKERMODE_FUNC.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_TRANSCEIVER.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_TRANSCEIVER_SPEAKERMODE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_CHANNELMIX_OUTPUT.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/PLUGINLIST.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/REVERB_PROPERTIES.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/FILE_ASYNCREADCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SYSTEM_MIX_CALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PAN_3D_ROLLOFF_TYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DRIVER_STATE.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/FILE_OPENCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SETPARAM_FLOAT_CALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/_3D_ATTRIBUTES.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_HIGHPASS_SIMPLE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETBLOCKSIZE_FUNC.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SEND.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PAN_SUMMONOMATRIX_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/TAGTYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/TAGTYPE.cs:14:	FMOD,
+Celeste_Decompilado/FMOD/FILE_READCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/SYSTEM_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_RESAMPLER.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SYSTEM_DEREGISTER_CALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_ECHO.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMEQ.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/SoundGroup.cs:5:namespace FMOD;
+Celeste_Decompilado/FMOD/SoundGroup.cs:11:		RESULT num = FMOD_SoundGroup_Release(getRaw());
+Celeste_Decompilado/FMOD/SoundGroup.cs:23:		RESULT result = FMOD_SoundGroup_GetSystemObject(rawPtr, out system2);
+Celeste_Decompilado/FMOD/SoundGroup.cs:30:		return FMOD_SoundGroup_SetMaxAudible(rawPtr, maxaudible);
+Celeste_Decompilado/FMOD/SoundGroup.cs:35:		return FMOD_SoundGroup_GetMaxAudible(rawPtr, out maxaudible);
+Celeste_Decompilado/FMOD/SoundGroup.cs:40:		return FMOD_SoundGroup_SetMaxAudibleBehavior(rawPtr, behavior);
+Celeste_Decompilado/FMOD/SoundGroup.cs:45:		return FMOD_SoundGroup_GetMaxAudibleBehavior(rawPtr, out behavior);
+Celeste_Decompilado/FMOD/SoundGroup.cs:50:		return FMOD_SoundGroup_SetMuteFadeSpeed(rawPtr, speed);
+Celeste_Decompilado/FMOD/SoundGroup.cs:55:		return FMOD_SoundGroup_GetMuteFadeSpeed(rawPtr, out speed);
+Celeste_Decompilado/FMOD/SoundGroup.cs:60:		return FMOD_SoundGroup_SetVolume(rawPtr, volume);
+Celeste_Decompilado/FMOD/SoundGroup.cs:65:		return FMOD_SoundGroup_GetVolume(rawPtr, out volume);
+Celeste_Decompilado/FMOD/SoundGroup.cs:70:		return FMOD_SoundGroup_Stop(rawPtr);
+Celeste_Decompilado/FMOD/SoundGroup.cs:76:		RESULT result = FMOD_SoundGroup_GetName(rawPtr, intPtr, namelen);
+Celeste_Decompilado/FMOD/SoundGroup.cs:84:		return FMOD_SoundGroup_GetNumSounds(rawPtr, out numsounds);
+Celeste_Decompilado/FMOD/SoundGroup.cs:91:		RESULT result = FMOD_SoundGroup_GetSound(rawPtr, index, out sound2);
+Celeste_Decompilado/FMOD/SoundGroup.cs:98:		return FMOD_SoundGroup_GetNumPlaying(rawPtr, out numplaying);
+Celeste_Decompilado/FMOD/SoundGroup.cs:103:		return FMOD_SoundGroup_SetUserData(rawPtr, userdata);
+Celeste_Decompilado/FMOD/SoundGroup.cs:108:		return FMOD_SoundGroup_GetUserData(rawPtr, out userdata);
+Celeste_Decompilado/FMOD/SoundGroup.cs:111:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:112:	private static extern RESULT FMOD_SoundGroup_Release(IntPtr soundgroup);
+Celeste_Decompilado/FMOD/SoundGroup.cs:114:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:115:	private static extern RESULT FMOD_SoundGroup_GetSystemObject(IntPtr soundgroup, out IntPtr system);
+Celeste_Decompilado/FMOD/SoundGroup.cs:117:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:118:	private static extern RESULT FMOD_SoundGroup_SetMaxAudible(IntPtr soundgroup, int maxaudible);
+Celeste_Decompilado/FMOD/SoundGroup.cs:120:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:121:	private static extern RESULT FMOD_SoundGroup_GetMaxAudible(IntPtr soundgroup, out int maxaudible);
+Celeste_Decompilado/FMOD/SoundGroup.cs:123:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:124:	private static extern RESULT FMOD_SoundGroup_SetMaxAudibleBehavior(IntPtr soundgroup, SOUNDGROUP_BEHAVIOR behavior);
+Celeste_Decompilado/FMOD/SoundGroup.cs:126:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:127:	private static extern RESULT FMOD_SoundGroup_GetMaxAudibleBehavior(IntPtr soundgroup, out SOUNDGROUP_BEHAVIOR behavior);
+Celeste_Decompilado/FMOD/SoundGroup.cs:129:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:130:	private static extern RESULT FMOD_SoundGroup_SetMuteFadeSpeed(IntPtr soundgroup, float speed);
+Celeste_Decompilado/FMOD/SoundGroup.cs:132:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:133:	private static extern RESULT FMOD_SoundGroup_GetMuteFadeSpeed(IntPtr soundgroup, out float speed);
+Celeste_Decompilado/FMOD/SoundGroup.cs:135:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:136:	private static extern RESULT FMOD_SoundGroup_SetVolume(IntPtr soundgroup, float volume);
+Celeste_Decompilado/FMOD/SoundGroup.cs:138:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:139:	private static extern RESULT FMOD_SoundGroup_GetVolume(IntPtr soundgroup, out float volume);
+Celeste_Decompilado/FMOD/SoundGroup.cs:141:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:142:	private static extern RESULT FMOD_SoundGroup_Stop(IntPtr soundgroup);
+Celeste_Decompilado/FMOD/SoundGroup.cs:144:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:145:	private static extern RESULT FMOD_SoundGroup_GetName(IntPtr soundgroup, IntPtr name, int namelen);
+Celeste_Decompilado/FMOD/SoundGroup.cs:147:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:148:	private static extern RESULT FMOD_SoundGroup_GetNumSounds(IntPtr soundgroup, out int numsounds);
+Celeste_Decompilado/FMOD/SoundGroup.cs:150:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:151:	private static extern RESULT FMOD_SoundGroup_GetSound(IntPtr soundgroup, int index, out IntPtr sound);
+Celeste_Decompilado/FMOD/SoundGroup.cs:153:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:154:	private static extern RESULT FMOD_SoundGroup_GetNumPlaying(IntPtr soundgroup, out int numplaying);
+Celeste_Decompilado/FMOD/SoundGroup.cs:156:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:157:	private static extern RESULT FMOD_SoundGroup_SetUserData(IntPtr soundgroup, IntPtr userdata);
+Celeste_Decompilado/FMOD/SoundGroup.cs:159:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/SoundGroup.cs:160:	private static extern RESULT FMOD_SoundGroup_GetUserData(IntPtr soundgroup, out IntPtr userdata);
+Celeste_Decompilado/FMOD/DSP_SHOULDIPROCESS_CALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_DATA.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SETPARAM_DATA_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_DFT_IFFTREAL_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/FILE_CLOSECALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_ITLOWPASS.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/SPEAKERMODE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_READCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_FLOAT_MAPPING.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/VECTOR.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETPARAM_FLOAT_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/Reverb3D.cs:4:namespace FMOD;
+Celeste_Decompilado/FMOD/Reverb3D.cs:10:		RESULT num = FMOD_Reverb3D_Release(getRaw());
+Celeste_Decompilado/FMOD/Reverb3D.cs:20:		return FMOD_Reverb3D_Set3DAttributes(rawPtr, ref position, mindistance, maxdistance);
+Celeste_Decompilado/FMOD/Reverb3D.cs:25:		return FMOD_Reverb3D_Get3DAttributes(rawPtr, ref position, ref mindistance, ref maxdistance);
+Celeste_Decompilado/FMOD/Reverb3D.cs:30:		return FMOD_Reverb3D_SetProperties(rawPtr, ref properties);
+Celeste_Decompilado/FMOD/Reverb3D.cs:35:		return FMOD_Reverb3D_GetProperties(rawPtr, ref properties);
+Celeste_Decompilado/FMOD/Reverb3D.cs:40:		return FMOD_Reverb3D_SetActive(rawPtr, active);
+Celeste_Decompilado/FMOD/Reverb3D.cs:45:		return FMOD_Reverb3D_GetActive(rawPtr, out active);
+Celeste_Decompilado/FMOD/Reverb3D.cs:50:		return FMOD_Reverb3D_SetUserData(rawPtr, userdata);
+Celeste_Decompilado/FMOD/Reverb3D.cs:55:		return FMOD_Reverb3D_GetUserData(rawPtr, out userdata);
+Celeste_Decompilado/FMOD/Reverb3D.cs:58:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:59:	private static extern RESULT FMOD_Reverb3D_Release(IntPtr reverb);
+Celeste_Decompilado/FMOD/Reverb3D.cs:61:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:62:	private static extern RESULT FMOD_Reverb3D_Set3DAttributes(IntPtr reverb, ref VECTOR position, float mindistance, float maxdistance);
+Celeste_Decompilado/FMOD/Reverb3D.cs:64:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:65:	private static extern RESULT FMOD_Reverb3D_Get3DAttributes(IntPtr reverb, ref VECTOR position, ref float mindistance, ref float maxdistance);
+Celeste_Decompilado/FMOD/Reverb3D.cs:67:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:68:	private static extern RESULT FMOD_Reverb3D_SetProperties(IntPtr reverb, ref REVERB_PROPERTIES properties);
+Celeste_Decompilado/FMOD/Reverb3D.cs:70:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:71:	private static extern RESULT FMOD_Reverb3D_GetProperties(IntPtr reverb, ref REVERB_PROPERTIES properties);
+Celeste_Decompilado/FMOD/Reverb3D.cs:73:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:74:	private static extern RESULT FMOD_Reverb3D_SetActive(IntPtr reverb, bool active);
+Celeste_Decompilado/FMOD/Reverb3D.cs:76:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:77:	private static extern RESULT FMOD_Reverb3D_GetActive(IntPtr reverb, out bool active);
+Celeste_Decompilado/FMOD/Reverb3D.cs:79:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:80:	private static extern RESULT FMOD_Reverb3D_SetUserData(IntPtr reverb, IntPtr userdata);
+Celeste_Decompilado/FMOD/Reverb3D.cs:82:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Reverb3D.cs:83:	private static extern RESULT FMOD_Reverb3D_GetUserData(IntPtr reverb, out IntPtr userdata);
+Celeste_Decompilado/FMOD/DSP_RESETCALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/ASYNCREADINFO.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/Channel.cs:4:namespace FMOD;
+Celeste_Decompilado/FMOD/Channel.cs:10:		return FMOD_Channel_SetFrequency(getRaw(), frequency);
+Celeste_Decompilado/FMOD/Channel.cs:15:		return FMOD_Channel_GetFrequency(getRaw(), out frequency);
+Celeste_Decompilado/FMOD/Channel.cs:20:		return FMOD_Channel_SetPriority(getRaw(), priority);
+Celeste_Decompilado/FMOD/Channel.cs:25:		return FMOD_Channel_GetPriority(getRaw(), out priority);
+Celeste_Decompilado/FMOD/Channel.cs:30:		return FMOD_Channel_SetPosition(getRaw(), position, postype);
+Celeste_Decompilado/FMOD/Channel.cs:35:		return FMOD_Channel_GetPosition(getRaw(), out position, postype);
+Celeste_Decompilado/FMOD/Channel.cs:40:		return FMOD_Channel_SetChannelGroup(getRaw(), channelgroup.getRaw());
+Celeste_Decompilado/FMOD/Channel.cs:47:		RESULT result = FMOD_Channel_GetChannelGroup(getRaw(), out channelgroup2);
+Celeste_Decompilado/FMOD/Channel.cs:54:		return FMOD_Channel_SetLoopCount(getRaw(), loopcount);
+Celeste_Decompilado/FMOD/Channel.cs:59:		return FMOD_Channel_GetLoopCount(getRaw(), out loopcount);
+Celeste_Decompilado/FMOD/Channel.cs:64:		return FMOD_Channel_SetLoopPoints(getRaw(), loopstart, loopstarttype, loopend, loopendtype);
+Celeste_Decompilado/FMOD/Channel.cs:69:		return FMOD_Channel_GetLoopPoints(getRaw(), out loopstart, loopstarttype, out loopend, loopendtype);
+Celeste_Decompilado/FMOD/Channel.cs:74:		return FMOD_Channel_IsVirtual(getRaw(), out isvirtual);
+Celeste_Decompilado/FMOD/Channel.cs:81:		RESULT result = FMOD_Channel_GetCurrentSound(getRaw(), out sound2);
+Celeste_Decompilado/FMOD/Channel.cs:88:		return FMOD_Channel_GetIndex(getRaw(), out index);
+Celeste_Decompilado/FMOD/Channel.cs:91:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:92:	private static extern RESULT FMOD_Channel_SetFrequency(IntPtr channel, float frequency);
+Celeste_Decompilado/FMOD/Channel.cs:94:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:95:	private static extern RESULT FMOD_Channel_GetFrequency(IntPtr channel, out float frequency);
+Celeste_Decompilado/FMOD/Channel.cs:97:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:98:	private static extern RESULT FMOD_Channel_SetPriority(IntPtr channel, int priority);
+Celeste_Decompilado/FMOD/Channel.cs:100:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:101:	private static extern RESULT FMOD_Channel_GetPriority(IntPtr channel, out int priority);
+Celeste_Decompilado/FMOD/Channel.cs:103:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:104:	private static extern RESULT FMOD_Channel_SetChannelGroup(IntPtr channel, IntPtr channelgroup);
+Celeste_Decompilado/FMOD/Channel.cs:106:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:107:	private static extern RESULT FMOD_Channel_GetChannelGroup(IntPtr channel, out IntPtr channelgroup);
+Celeste_Decompilado/FMOD/Channel.cs:109:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:110:	private static extern RESULT FMOD_Channel_IsVirtual(IntPtr channel, out bool isvirtual);
+Celeste_Decompilado/FMOD/Channel.cs:112:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:113:	private static extern RESULT FMOD_Channel_GetCurrentSound(IntPtr channel, out IntPtr sound);
+Celeste_Decompilado/FMOD/Channel.cs:115:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:116:	private static extern RESULT FMOD_Channel_GetIndex(IntPtr channel, out int index);
+Celeste_Decompilado/FMOD/Channel.cs:118:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:119:	private static extern RESULT FMOD_Channel_SetPosition(IntPtr channel, uint position, TIMEUNIT postype);
+Celeste_Decompilado/FMOD/Channel.cs:121:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:122:	private static extern RESULT FMOD_Channel_GetPosition(IntPtr channel, out uint position, TIMEUNIT postype);
+Celeste_Decompilado/FMOD/Channel.cs:124:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:125:	private static extern RESULT FMOD_Channel_SetMode(IntPtr channel, MODE mode);
+Celeste_Decompilado/FMOD/Channel.cs:127:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:128:	private static extern RESULT FMOD_Channel_GetMode(IntPtr channel, out MODE mode);
+Celeste_Decompilado/FMOD/Channel.cs:130:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:131:	private static extern RESULT FMOD_Channel_SetLoopCount(IntPtr channel, int loopcount);
+Celeste_Decompilado/FMOD/Channel.cs:133:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:134:	private static extern RESULT FMOD_Channel_GetLoopCount(IntPtr channel, out int loopcount);
+Celeste_Decompilado/FMOD/Channel.cs:136:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:137:	private static extern RESULT FMOD_Channel_SetLoopPoints(IntPtr channel, uint loopstart, TIMEUNIT loopstarttype, uint loopend, TIMEUNIT loopendtype);
+Celeste_Decompilado/FMOD/Channel.cs:139:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:140:	private static extern RESULT FMOD_Channel_GetLoopPoints(IntPtr channel, out uint loopstart, TIMEUNIT loopstarttype, out uint loopend, TIMEUNIT loopendtype);
+Celeste_Decompilado/FMOD/Channel.cs:142:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:143:	private static extern RESULT FMOD_Channel_SetUserData(IntPtr channel, IntPtr userdata);
+Celeste_Decompilado/FMOD/Channel.cs:145:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Channel.cs:146:	private static extern RESULT FMOD_Channel_GetUserData(IntPtr channel, out IntPtr userdata);
+Celeste_Decompilado/FMOD/MEMORY_REALLOC_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/CHANNELORDER.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/OUTPUTTYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PAN_SUMMONOTOSURROUNDMATRIX_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/ASYNCREADINFO_DONE_CALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_DESC_UNION.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PROCESS_OPERATION.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_NORMALIZE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/SOUND_PCMSETPOSCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_SETPARAM_INT_CALLBACK.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PAN.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_PARAMETER_FFT.cs:4:namespace FMOD;
+Celeste_Decompilado/FMOD/SOUND_TYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/FILE_ASYNCCANCELCALLBACK.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/MEMORY_TYPE.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/PLUGINTYPE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/StringMarshalHelper.cs:5:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_GETCLOCK_FUNC.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DEBUG_MODE.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/CREATESOUNDEXINFO.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_REALLOC_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_STATE_PAN_FUNCTIONS.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_FREE_FUNC.cs:3:namespace FMOD;
+Celeste_Decompilado/FMOD/DSP_FADER.cs:1:namespace FMOD;
+Celeste_Decompilado/FMOD/Factory.cs:4:namespace FMOD;
+Celeste_Decompilado/FMOD/Factory.cs:13:		rESULT = FMOD_System_Create(out system2);
+Celeste_Decompilado/FMOD/Factory.cs:22:	[DllImport("fmod")]
+Celeste_Decompilado/FMOD/Factory.cs:23:	private static extern RESULT FMOD_System_Create(out IntPtr system);
+Celeste_Decompilado/FMOD/System.cs:5:namespace FMOD;
+Celeste_Decompilado/FMOD/System.cs:11:		RESULT num = FMOD_System_Release(rawPtr);
+Celeste_Decompilado/FMOD/System.cs:21:		return FMOD_System_SetOutput(rawPtr, output);
+Celeste_Decompilado/FMOD/System.cs:26:		return FMOD_System_GetOutput(rawPtr, out output);
+Celeste_Decompilado/FMOD/System.cs:31:		return FMOD_System_GetNumDrivers(rawPtr, out numdrivers);
+Celeste_Decompilado/FMOD/System.cs:37:		RESULT result = FMOD_System_GetDriverInfo(rawPtr, id, intPtr, namelen, out guid, out systemrate, out speakermode, out speakermodechannels);
+Celeste_Decompilado/FMOD/System.cs:45:		return FMOD_System_SetDriver(rawPtr, driver);
+Celeste_Decompilado/FMOD/System.cs:50:		return FMOD_System_GetDriver(rawPtr, out driver);
+Celeste_Decompilado/FMOD/System.cs:55:		return FMOD_System_SetSoftwareChannels(rawPtr, numsoftwarechannels);
+Celeste_Decompilado/FMOD/System.cs:60:		return FMOD_System_GetSoftwareChannels(rawPtr, out numsoftwarechannels);
+Celeste_Decompilado/FMOD/System.cs:65:		return FMOD_System_SetSoftwareFormat(rawPtr, samplerate, speakermode, numrawspeakers);
+Celeste_Decompilado/FMOD/System.cs:70:		return FMOD_System_GetSoftwareFormat(rawPtr, out samplerate, out speakermode, out numrawspeakers);
+Celeste_Decompilado/FMOD/System.cs:75:		return FMOD_System_SetDSPBufferSize(rawPtr, bufferlength, numbuffers);
+Celeste_Decompilado/FMOD/System.cs:80:		return FMOD_System_GetDSPBufferSize(rawPtr, out bufferlength, out numbuffers);
+Celeste_Decompilado/FMOD/System.cs:85:		return FMOD_System_SetFileSystem(rawPtr, useropen, userclose, userread, userseek, userasyncread, userasynccancel, blockalign);
+Celeste_Decompilado/FMOD/System.cs:90:		return FMOD_System_AttachFileSystem(rawPtr, useropen, userclose, userread, userseek);
+Celeste_Decompilado/FMOD/System.cs:96:		return FMOD_System_SetAdvancedSettings(rawPtr, ref settings);
+Celeste_Decompilado/FMOD/System.cs:102:		return FMOD_System_GetAdvancedSettings(rawPtr, ref settings);
+Celeste_Decompilado/FMOD/System.cs:107:		return FMOD_System_SetCallback(rawPtr, callback, callbackmask);
+Celeste_Decompilado/FMOD/System.cs:112:		return FMOD_System_SetPluginPath(rawPtr, Encoding.UTF8.GetBytes(path + "\0"));
+Celeste_Decompilado/FMOD/System.cs:117:		return FMOD_System_LoadPlugin(rawPtr, Encoding.UTF8.GetBytes(filename + "\0"), out handle, priority);
+Celeste_Decompilado/FMOD/System.cs:122:		return FMOD_System_UnloadPlugin(rawPtr, handle);
+Celeste_Decompilado/FMOD/System.cs:127:		return FMOD_System_GetNumNestedPlugins(rawPtr, handle, out count);
+Celeste_Decompilado/FMOD/System.cs:132:		return FMOD_System_GetNestedPlugin(rawPtr, handle, index, out nestedhandle);
+Celeste_Decompilado/FMOD/System.cs:137:		return FMOD_System_GetNumPlugins(rawPtr, plugintype, out numplugins);
+Celeste_Decompilado/FMOD/System.cs:142:		return FMOD_System_GetPluginHandle(rawPtr, plugintype, index, out handle);
+Celeste_Decompilado/FMOD/System.cs:148:		RESULT result = FMOD_System_GetPluginInfo(rawPtr, handle, out plugintype, intPtr, namelen, out version);
+Celeste_Decompilado/FMOD/System.cs:156:		return FMOD_System_SetOutputByPlugin(rawPtr, handle);
+Celeste_Decompilado/FMOD/System.cs:161:		return FMOD_System_GetOutputByPlugin(rawPtr, out handle);
+Celeste_Decompilado/FMOD/System.cs:168:		RESULT result = FMOD_System_CreateDSPByPlugin(rawPtr, handle, out dsp2);
+Celeste_Decompilado/FMOD/System.cs:175:		return FMOD_System_GetDSPInfoByPlugin(rawPtr, handle, out description);
+Celeste_Decompilado/FMOD/System.cs:180:		return FMOD_System_RegisterDSP(rawPtr, ref description, out handle);
+Celeste_Decompilado/FMOD/System.cs:185:		return FMOD_System_Init(rawPtr, maxchannels, flags, extradriverdata);
+Celeste_Decompilado/FMOD/System.cs:190:		return FMOD_System_Close(rawPtr);
+Celeste_Decompilado/FMOD/System.cs:195:		return FMOD_System_Update(rawPtr);
+Celeste_Decompilado/FMOD/System.cs:200:		return FMOD_System_SetSpeakerPosition(rawPtr, speaker, x, y, active);
+Celeste_Decompilado/FMOD/System.cs:205:		return FMOD_System_GetSpeakerPosition(rawPtr, speaker, out x, out y, out active);
+Celeste_Decompilado/FMOD/System.cs:210:		return FMOD_System_SetStreamBufferSize(rawPtr, filebuffersize, filebuffersizetype);
+Celeste_Decompilado/FMOD/System.cs:215:		return FMOD_System_GetStreamBufferSize(rawPtr, out filebuffersize, out filebuffersizetype);
+Celeste_Decompilado/FMOD/System.cs:220:		return FMOD_System_Set3DSettings(rawPtr, dopplerscale, distancefactor, rolloffscale);
+Celeste_Decompilado/FMOD/System.cs:225:		return FMOD_System_Get3DSettings(rawPtr, out dopplerscale, out distancefactor, out rolloffscale);
+Celeste_Decompilado/FMOD/System.cs:230:		return FMOD_System_Set3DNumListeners(rawPtr, numlisteners);
+Celeste_Decompilado/FMOD/System.cs:235:		return FMOD_System_Get3DNumListeners(rawPtr, out numlisteners);
+Celeste_Decompilado/FMOD/System.cs:240:		return FMOD_System_Set3DListenerAttributes(rawPtr, listener, ref pos, ref vel, ref forward, ref up);
+Celeste_Decompilado/FMOD/System.cs:245:		return FMOD_System_Get3DListenerAttributes(rawPtr, listener, out pos, out vel, out forward, out up);
+Celeste_Decompilado/FMOD/System.cs:250:		return FMOD_System_Set3DRolloffCallback(rawPtr, callback);
+Celeste_Decompilado/FMOD/System.cs:255:		return FMOD_System_MixerSuspend(rawPtr);
+Celeste_Decompilado/FMOD/System.cs:260:		return FMOD_System_MixerResume(rawPtr);
+Celeste_Decompilado/FMOD/System.cs:265:		return FMOD_System_GetDefaultMixMatrix(rawPtr, sourcespeakermode, targetspeakermode, matrix, matrixhop);
+Celeste_Decompilado/FMOD/System.cs:270:		return FMOD_System_GetSpeakerModeChannels(rawPtr, mode, out channels);
+Celeste_Decompilado/FMOD/System.cs:275:		return FMOD_System_GetVersion(rawPtr, out version);
+Celeste_Decompilado/FMOD/System.cs:280:		return FMOD_System_GetOutputHandle(rawPtr, out handle);
+Celeste_Decompilado/FMOD/System.cs:285:		return FMOD_System_GetChannelsPlaying(rawPtr, out channels, out realchannels);
+Celeste_Decompilado/FMOD/System.cs:290:		return FMOD_System_GetCPUUsage(rawPtr, out dsp, out stream, out geometry, out update, out total);

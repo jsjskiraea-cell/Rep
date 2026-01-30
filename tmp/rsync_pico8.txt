@@ -1,0 +1,7 @@
+sending incremental file list
+Celeste.Pico8/
+Celeste.Pico8/Classic.cs
+Celeste.Pico8/Emulator.cs
+
+sent 85,443 bytes  received 58 bytes  171,002.00 bytes/sec
+total size is 85,219  speedup is 1.00

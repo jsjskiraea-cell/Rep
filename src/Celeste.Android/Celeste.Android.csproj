@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Namespace>Celeste.Android</Namespace>
+    <LangVersion>11</LangVersion>
+    <Nullable>enable</Nullable>
+    <AnalysisLevel>latest</AnalysisLevel>
+    
+    <!-- Android App Configuration (placeholder para ETAPA 5) -->
+    <ApplicationTitle>Celeste</ApplicationTitle>
+    <ApplicationId>Celestemeown.app</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Celeste.Core\Celeste.Core.csproj" />
+  </ItemGroup>
+
+</Project>

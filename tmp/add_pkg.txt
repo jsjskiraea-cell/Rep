@@ -1,0 +1,17 @@
+info : X.509 certificate chain validation will use the fallback certificate bundle at '/usr/share/dotnet/sdk/10.0.100/trustedroots/codesignctl.pem'.
+info : X.509 certificate chain validation will use the fallback certificate bundle at '/usr/share/dotnet/sdk/10.0.100/trustedroots/timestampctl.pem'.
+info : Adding PackageReference for package 'MonoGame.Framework.DesktopGL' into project '/workspaces/Rep/src/Celeste.Core/Celeste.Core.csproj'.
+info : Restoring packages for /workspaces/Rep/src/Celeste.Core/Celeste.Core.csproj...
+info :   GET https://api.nuget.org/v3-flatcontainer/monogame.framework.desktopgl/index.json
+info :   OK https://api.nuget.org/v3-flatcontainer/monogame.framework.desktopgl/index.json 197ms
+info :   GET https://api.nuget.org/v3-flatcontainer/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg
+info :   OK https://api.nuget.org/v3-flatcontainer/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg 14ms
+info : Installed MonoGame.Framework.DesktopGL 3.8.1.303 from https://api.nuget.org/v3/index.json to /home/codespace/.nuget/packages/monogame.framework.desktopgl/3.8.1.303 with content hash eGYhqn0n1olk8MNYeE9EuBmoNNECN1T18rPMaQpkzsEQ0H3nVyFPXC+uCo78v5pi5juQpJ3PSFnSkjzZJ1U58A==.
+info :   CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.01.28.23.41.46/vulnerability.base.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.01.28.23.41.46/2026.01.29.23.41.49/vulnerability.update.json
+info : Package 'MonoGame.Framework.DesktopGL' is compatible with all the specified frameworks in project '/workspaces/Rep/src/Celeste.Core/Celeste.Core.csproj'.
+info : PackageReference for package 'MonoGame.Framework.DesktopGL' version '3.8.1.303' added to file '/workspaces/Rep/src/Celeste.Core/Celeste.Core.csproj'.
+info : Generating MSBuild file /workspaces/Rep/src/Celeste.Core/obj/Celeste.Core.csproj.nuget.g.targets.
+info : Writing assets file to disk. Path: /workspaces/Rep/src/Celeste.Core/obj/project.assets.json
+log  : Restored /workspaces/Rep/src/Celeste.Core/Celeste.Core.csproj (in 1.07 sec).

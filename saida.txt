@@ -1,0 +1,1709 @@
+Hit:1 https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod noble InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Get:4 https://dl.yarnpkg.com/debian stable InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:6 https://repo.anaconda.com/pkgs/misc/debrepo/conda stable InRelease
+Err:4 https://dl.yarnpkg.com/debian stable InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 62D54FD4003F6525
+Hit:7 http://security.ubuntu.com/ubuntu noble-security InRelease
+Reading package lists...
+W: GPG error: https://dl.yarnpkg.com/debian stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 62D54FD4003F6525
+E: The repository 'https://dl.yarnpkg.com/debian stable InRelease' is not signed.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+curl is already the newest version (8.5.0-2ubuntu10.6).
+tar is already the newest version (1.35+dfsg-3build1).
+unzip is already the newest version (6.0-28ubuntu4.1).
+0 upgraded, 0 newly installed, 0 to remove and 80 not upgraded.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 60.2M  100 60.2M    0     0   136M      0 --:--:-- --:--:-- --:--:--  136M
+fmodstudioapi20312android/
+fmodstudioapi20312android/placeholder
+fmodstudioapi20312android/api/
+fmodstudioapi20312android/api/core/
+fmodstudioapi20312android/api/core/lib/
+fmodstudioapi20312android/api/core/lib/fmod.jar
+fmodstudioapi20312android/api/core/lib/arm64-v8a/
+fmodstudioapi20312android/api/core/lib/arm64-v8a/libfmod.so
+fmodstudioapi20312android/api/core/lib/arm64-v8a/libfmodL.so
+fmodstudioapi20312android/api/core/lib/armeabi-v7a/
+fmodstudioapi20312android/api/core/lib/armeabi-v7a/libfmod.so
+fmodstudioapi20312android/api/core/lib/armeabi-v7a/libfmodL.so
+fmodstudioapi20312android/api/core/lib/x86/
+fmodstudioapi20312android/api/core/lib/x86/libfmod.so
+fmodstudioapi20312android/api/core/lib/x86/libfmodL.so
+fmodstudioapi20312android/api/core/lib/x86_64/
+fmodstudioapi20312android/api/core/lib/x86_64/libfmod.so
+fmodstudioapi20312android/api/core/lib/x86_64/libfmodL.so
+fmodstudioapi20312android/api/core/examples/
+fmodstudioapi20312android/api/core/examples/media/
+fmodstudioapi20312android/api/core/examples/media/c.ogg
+fmodstudioapi20312android/api/core/examples/media/d.ogg
+fmodstudioapi20312android/api/core/examples/media/drumloop.wav
+fmodstudioapi20312android/api/core/examples/media/e.ogg
+fmodstudioapi20312android/api/core/examples/media/jaguar.wav
+fmodstudioapi20312android/api/core/examples/media/singing.wav
+fmodstudioapi20312android/api/core/examples/media/standrews.wav
+fmodstudioapi20312android/api/core/examples/media/stereo.ogg
+fmodstudioapi20312android/api/core/examples/media/swish.wav
+fmodstudioapi20312android/api/core/examples/media/wave.mp3
+fmodstudioapi20312android/api/core/examples/media/wave_vorbis.fsb
+fmodstudioapi20312android/api/core/examples/media/granular/
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_01.wav
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_02.wav
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_03.wav
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_04.wav
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_05.wav
+fmodstudioapi20312android/api/core/examples/media/granular/truck_idle_off_06.wav
+fmodstudioapi20312android/api/core/examples/androidstudio/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/cpp/multiple_system.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_system/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/cpp/dsp_effect_per_speaker.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_effect_per_speaker/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/cpp/net_stream.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/net_stream/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/cpp/dsp_inspector.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_inspector/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/cpp/play_sound.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/cpp/effects.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/effects/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/cpp/play_stream.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/play_stream/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/3d.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/3d/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/cpp/gapless_playback.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/gapless_playback/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/cpp/record.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/cpp/generate_tone.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/generate_tone/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/asyncio.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/asyncio/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/cpp/record_enumeration.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/record_enumeration/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/cpp/granular_synth.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/granular_synth/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/channel_groups.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/channel_groups/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/cpp/user_created_sound.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/user_created_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/cpp/load_from_memory.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/load_from_memory/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/cpp/convolution_reverb.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/convolution_reverb/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/multiple_speaker/app/src/main/cpp/multiple_speaker.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/cpp/dsp_custom.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/gradle.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/cmake/dsp_custom/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/asyncio.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/asyncio/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/cpp/record_enumeration.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record_enumeration/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/cpp/granular_synth.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/granular_synth/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/channel_groups.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/channel_groups/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/cpp/user_created_sound.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/user_created_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/cpp/load_from_memory.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/load_from_memory/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/cpp/convolution_reverb.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/convolution_reverb/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/cpp/multiple_speaker.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_speaker/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/cpp/dsp_custom.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_custom/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/cpp/multiple_system.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/multiple_system/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/cpp/dsp_effect_per_speaker.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_effect_per_speaker/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/cpp/net_stream.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/net_stream/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/cpp/dsp_inspector.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/dsp_inspector/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/cpp/play_sound.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/cpp/effects.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/effects/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/cpp/play_stream.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/play_stream/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/cpp/gapless_playback.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/gapless_playback/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/3d.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/settings.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/record/app/src/main/cpp/record.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/Android.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/Application.mk
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/cpp/generate_tone.cpp
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/java/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/java/org/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/gradle/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/gradle/wrapper/
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/build.gradle
+fmodstudioapi20312android/api/core/examples/androidstudio/ndkbuild/generate_tone/settings.gradle
+fmodstudioapi20312android/api/core/inc/
+fmodstudioapi20312android/api/core/inc/fmod.h
+fmodstudioapi20312android/api/core/inc/fmod.hpp
+fmodstudioapi20312android/api/core/inc/fmod_android.h
+fmodstudioapi20312android/api/core/inc/fmod_codec.h
+fmodstudioapi20312android/api/core/inc/fmod_common.h
+fmodstudioapi20312android/api/core/inc/fmod_dsp.h
+fmodstudioapi20312android/api/core/inc/fmod_dsp_effects.h
+fmodstudioapi20312android/api/core/inc/fmod_errors.h
+fmodstudioapi20312android/api/core/inc/fmod_output.h
+fmodstudioapi20312android/api/studio/
+fmodstudioapi20312android/api/studio/lib/
+fmodstudioapi20312android/api/studio/lib/arm64-v8a/
+fmodstudioapi20312android/api/studio/lib/arm64-v8a/libfmodstudio.so
+fmodstudioapi20312android/api/studio/lib/arm64-v8a/libfmodstudioL.so
+fmodstudioapi20312android/api/studio/lib/armeabi-v7a/
+fmodstudioapi20312android/api/studio/lib/armeabi-v7a/libfmodstudio.so
+fmodstudioapi20312android/api/studio/lib/armeabi-v7a/libfmodstudioL.so
+fmodstudioapi20312android/api/studio/lib/x86/
+fmodstudioapi20312android/api/studio/lib/x86/libfmodstudio.so
+fmodstudioapi20312android/api/studio/lib/x86/libfmodstudioL.so
+fmodstudioapi20312android/api/studio/lib/x86_64/
+fmodstudioapi20312android/api/studio/lib/x86_64/libfmodstudio.so
+fmodstudioapi20312android/api/studio/lib/x86_64/libfmodstudioL.so
+fmodstudioapi20312android/api/studio/examples/
+fmodstudioapi20312android/api/studio/examples/androidstudio/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/cpp/programmer_sound.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/programmer_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/cpp/recording_playback.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/recording_playback/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/cpp/simple_event.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/simple_event/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/3d.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/3d_multi.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/3d_multi/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/cpp/event_parameter.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/event_parameter/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/cpp/load_banks.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/load_banks/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/cpp/music_callbacks.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/music_callbacks/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/gradle.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/CMakeLists.txt
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/cpp/objectpan.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/cmake/objectpan/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/cpp/objectpan.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/objectpan/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/cpp/programmer_sound.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/programmer_sound/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/cpp/recording_playback.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/recording_playback/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/cpp/simple_event.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/simple_event/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/3d.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/3d_multi.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/3d_multi/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/cpp/event_parameter.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/event_parameter/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/cpp/load_banks.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/load_banks/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/gradle/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/gradle/wrapper/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/gradle/wrapper/gradle-wrapper.properties
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/settings.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/Android.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/Application.mk
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/build.gradle
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/AndroidManifest.xml
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/common.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/common.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/common_platform.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/common_platform.h
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/cpp/music_callbacks.cpp
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/java/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/java/org/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/java/org/fmod/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/java/org/fmod/example/
+fmodstudioapi20312android/api/studio/examples/androidstudio/ndkbuild/music_callbacks/app/src/main/java/org/fmod/example/MainActivity.java
+fmodstudioapi20312android/api/studio/examples/media/
+fmodstudioapi20312android/api/studio/examples/media/640148main_APU Shutdown.ogg
+fmodstudioapi20312android/api/studio/examples/media/640165main_Lookin At It.ogg
+fmodstudioapi20312android/api/studio/examples/media/640166main_MECO.ogg
+fmodstudioapi20312android/api/studio/examples/media/640169main_Press to ATO.ogg
+fmodstudioapi20312android/api/studio/examples/media/Dialogue_CN.bank
+fmodstudioapi20312android/api/studio/examples/media/Dialogue_EN.bank
+fmodstudioapi20312android/api/studio/examples/media/Dialogue_JP.bank
+fmodstudioapi20312android/api/studio/examples/media/Master.bank
+fmodstudioapi20312android/api/studio/examples/media/Master.strings.bank
+fmodstudioapi20312android/api/studio/examples/media/Music.bank
+fmodstudioapi20312android/api/studio/examples/media/SFX.bank
+fmodstudioapi20312android/api/studio/examples/media/VO.bank
+fmodstudioapi20312android/api/studio/examples/media/Vehicles.bank
+fmodstudioapi20312android/api/studio/examples/media/programmer_sound.fsb
+fmodstudioapi20312android/api/studio/inc/
+fmodstudioapi20312android/api/studio/inc/fmod_studio.h
+fmodstudioapi20312android/api/studio/inc/fmod_studio.hpp
+fmodstudioapi20312android/api/studio/inc/fmod_studio_common.h
+fmodstudioapi20312android/api/fsbank/
+fmodstudioapi20312android/api/fsbank/inc/
+fmodstudioapi20312android/api/fsbank/inc/fsbank.h
+fmodstudioapi20312android/api/fsbank/inc/fsbank_errors.h
+fmodstudioapi20312android/api/fsbank/lib/
+fmodstudioapi20312android/api/fsbank/lib/x64/
+fmodstudioapi20312android/api/fsbank/lib/x64/fsbank.dll
+fmodstudioapi20312android/api/fsbank/lib/x64/fsbank_vc.lib
+fmodstudioapi20312android/api/fsbank/lib/x64/libfsbvorbis64.dll
+fmodstudioapi20312android/api/fsbank/lib/x64/opus.dll
+fmodstudioapi20312android/api/fsbank/lib/x86/
+fmodstudioapi20312android/api/fsbank/lib/x86/fsbank.dll
+fmodstudioapi20312android/api/fsbank/lib/x86/fsbank_vc.lib
+fmodstudioapi20312android/api/fsbank/lib/x86/libfsbvorbis.dll
+fmodstudioapi20312android/api/fsbank/lib/x86/opus.dll
+fmodstudioapi20312android/plugins/
+fmodstudioapi20312android/plugins/fmod_haptics/
+fmodstudioapi20312android/plugins/fmod_haptics/inc/
+fmodstudioapi20312android/plugins/fmod_haptics/inc/fmod_haptics.h
+fmodstudioapi20312android/plugins/fmod_haptics/lib/
+fmodstudioapi20312android/plugins/fmod_haptics/lib/quest/
+fmodstudioapi20312android/plugins/fmod_haptics/lib/quest/libfmod_haptics.so
+fmodstudioapi20312android/plugins/resonance_audio/
+fmodstudioapi20312android/plugins/resonance_audio/license.txt
+fmodstudioapi20312android/plugins/resonance_audio/readme.txt
+fmodstudioapi20312android/plugins/resonance_audio/inc/
+fmodstudioapi20312android/plugins/resonance_audio/inc/RoomProperties.h
+fmodstudioapi20312android/plugins/resonance_audio/lib/
+fmodstudioapi20312android/plugins/resonance_audio/lib/arm64-v8a/
+fmodstudioapi20312android/plugins/resonance_audio/lib/arm64-v8a/libresonanceaudio.so
+fmodstudioapi20312android/plugins/resonance_audio/lib/armeabi-v7a/
+fmodstudioapi20312android/plugins/resonance_audio/lib/armeabi-v7a/libresonanceaudio.so
+fmodstudioapi20312android/plugins/resonance_audio/lib/x86/
+fmodstudioapi20312android/plugins/resonance_audio/lib/x86/libresonanceaudio.so
+fmodstudioapi20312android/plugins/resonance_audio/lib/x86_64/
+fmodstudioapi20312android/plugins/resonance_audio/lib/x86_64/libresonanceaudio.so
+fmodstudioapi20312android/doc/
+fmodstudioapi20312android/doc/LICENSE.TXT
+fmodstudioapi20312android/doc/revision.txt
+fmodstudioapi20312android/doc/FMOD API User Manual/
+fmodstudioapi20312android/doc/FMOD API User Manual/advanced-core-api-topics.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-channel.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-channelcontrol.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-channelgroup.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-common-dsp-effects.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-common.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-concepts.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-dsp.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-dspconnection.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-geometry.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-platform-android.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-platform-html5.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-platform-ios.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-reverb3d.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-sound.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-soundgroup.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api-system.html
+fmodstudioapi20312android/doc/FMOD API User Manual/core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/dsp-plugin-api-guide.html
+fmodstudioapi20312android/doc/FMOD API User Manual/effects-reference.html
+fmodstudioapi20312android/doc/FMOD API User Manual/fsbank-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/glossary.html
+fmodstudioapi20312android/doc/FMOD API User Manual/loading-and-playing-sounds-in-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/managing-resources-in-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/mixing-and-routing-in-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-android.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-html5.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-ios.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-linux.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-mac.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-openharmony.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-uwp.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms-win.html
+fmodstudioapi20312android/doc/FMOD API User Manual/platforms.html
+fmodstudioapi20312android/doc/FMOD API User Manual/plugin-api-codec.html
+fmodstudioapi20312android/doc/FMOD API User Manual/plugin-api-dsp.html
+fmodstudioapi20312android/doc/FMOD API User Manual/plugin-api-output.html
+fmodstudioapi20312android/doc/FMOD API User Manual/plugin-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/running-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/spatializing-sounds-in-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-3d-events.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-bank.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-bus.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-commandreplay.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-common.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-eventdescription.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-eventinstance.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-getting-started.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-system.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-threads.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api-vca.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/studio-guide.html
+fmodstudioapi20312android/doc/FMOD API User Manual/troubleshooting.html
+fmodstudioapi20312android/doc/FMOD API User Manual/using-dsp-effects-in-the-core-api.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-revision-history.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-whats-new-110.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-whats-new-200.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-whats-new-201.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-whats-new-202.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome-whats-new-203.html
+fmodstudioapi20312android/doc/FMOD API User Manual/welcome.html
+fmodstudioapi20312android/doc/FMOD API User Manual/images/
+fmodstudioapi20312android/doc/FMOD API User Manual/images/3d-reverb.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/3d-studio-1.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/3d-studio-2.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/3d-studio-3.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-chain.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-channelmix-grouping.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-channelmix-levels.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-channelmix-routing.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-chorus-wave.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-compressor.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-convolution-impulse.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-delay-wave.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-distortion-wave.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-echo-wave.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-blackman.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-blackmanharris.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-hamming.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-hanning.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-process.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-process.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-rectangle.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-fft-triangle.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-flange-wave.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-limiter-signals.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-multibandeq-bands.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-normalize-signals.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-objectpanner-diagram.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-oscillator-waves.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-height-side.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-height.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-stereo-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-stereo.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-direction-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-discrete-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-discretesep-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-extent-5ch.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-height-714down.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-height-714up.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-height.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d-surround-rotate-anim.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-2d.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-extent-off.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-position.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-rolloff-custom.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-rolloff-inverse.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-rolloff-invtaper.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-rolloff-linear.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-rolloff-linsquared.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-surround-minextent.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-3d-surround-soundsize.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-pan-general-enabledspeakers.gif
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-send-return.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-sfxreverb.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-threeeq.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dsp-transceiver.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img001.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img002.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img003.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img004.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img005.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img006.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img007.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img008.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img009.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img010.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img011.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img012.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img013.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img014.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dspnet-img015.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dynamic-response-compress-down.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dynamic-response-compress-up.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dynamic-response-expand-down.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/dynamic-response-expand-up.svg
+fmodstudioapi20312android/doc/FMOD API User Manual/images/mpeg-frames.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/multi-channel-mpeg.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/object_spatializer_effect_diagram.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/samples-bytes-milliseconds.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/studio-bank-layout.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/studio-thread-async.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/studio-thread-sync.png
+fmodstudioapi20312android/doc/FMOD API User Manual/images/virtual-dspgraph.png
+fmodstudioapi20312android/doc/FMOD API User Manual/scripts/
+fmodstudioapi20312android/doc/FMOD API User Manual/scripts/language-selector.js
+fmodstudioapi20312android/doc/FMOD API User Manual/style/
+fmodstudioapi20312android/doc/FMOD API User Manual/style/DINWeb-Medium.woff
+fmodstudioapi20312android/doc/FMOD API User Manual/style/DINWeb.woff
+fmodstudioapi20312android/doc/FMOD API User Manual/style/code_highlight.css
+fmodstudioapi20312android/doc/FMOD API User Manual/style/docs.css
+fmodstudioapi20312android/bin/
+fmodstudioapi20312android/bin/Qt6Core.dll
+fmodstudioapi20312android/bin/Qt6Gui.dll
+fmodstudioapi20312android/bin/Qt6Widgets.dll
+fmodstudioapi20312android/bin/fsbank.exe
+fmodstudioapi20312android/bin/libfsbvorbis64.dll
+fmodstudioapi20312android/bin/opus.dll
+fmodstudioapi20312android/bin/fsbankcl.exe
+fmodstudioapi20312android/bin/FMOD Profiler.exe
+fmodstudioapi20312android/bin/Qt6Network.dll
+fmodstudioapi20312android/bin/platforms/
+fmodstudioapi20312android/bin/platforms/qwindows.dll
