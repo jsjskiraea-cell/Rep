@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Celeste.Android")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ba9b83a5c47fed0755cb14a99fe4e26c619fe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c46aa9faed2a5e6961a5b83e43ee0c79472ede")]
 [assembly: System.Reflection.AssemblyProductAttribute("Celeste.Android")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Celeste.Android")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
